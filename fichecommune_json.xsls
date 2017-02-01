@@ -1,0 +1,131 @@
+// This program is free software: you can redistribute it and/or modify it
+// under the terms of the GNU General Public License as published by the Free
+// Software Foundation; either version 3 of the License, or (at your option)
+// any later version.
+//
+// This program is distributed in the hope that it will be useful, but WITHOUT
+// ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+// FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for
+// more details.
+//
+// You should have received a copy of the GNU General Public License along
+// with this program. If not, see http://www.gnu.org/licenses/. 
+
+// Ce script doit être appelé de la façon suivante :
+//
+// xslsproc --html --novalid fichecommune_json.xsls - 2> /dev/null
+//
+// --html = l’entrée est au format HTML
+// --novalid = ignorer les entités invalides
+// 2> /dev/null = ignorer le HTML mal construit, les ID en double etc.
+
+stylesheet(
+    version="1.0",
+    xmlns:xsl="http://www.w3.org/1999/XSL/Transform",
+    xmlns:xs="http://www.w3.org/2001/XMLSchema",
+    xmlns:date="http://exslt.org/dates-and-times",
+    extension-element-prefixes="date"
+) {
+    output(method="text", encoding="utf-8");
+
+    // Convertit un libellé de qualité de l’air en une valeur de 0 à 5
+    template("indice-qualite") {
+        param $libelle;
+
+        choose() {
+            when("$libelle = 'Très mauvais'") { [0] }
+            when("$libelle = 'Mauvais'"     ) { [1] }
+            when("$libelle = 'Médiocre'"    ) { [2] }
+            when("$libelle = 'Moyen'"       ) { [3] }
+            when("$libelle = 'Bon'"         ) { [4] }
+            when("$libelle = 'Très bon'"    ) { [5] }
+            otherwise();
+        }
+    }
+
+    // Prépare une date au format CCYY-MM-DD
+    template("prepare-date") {
+        param $date;
+        $pasdannee = "substring-after(substring-after($date, '/'), '/') = ''";
+        $reste = "substring-after($date, '/')";
+
+        $annee = {
+            choose() {
+                when("$pasdannee") { value-of("date:year()"); }
+                otherwise() { value-of("substring-after($reste, '/')"); }
+            }
+        }
+
+        $mois = {
+            choose() {
+                when("$pasdannee") { value-of("$reste"); }
+                otherwise() { value-of("substring-before($reste, '/')"); }
+            }
+        }
+        $jour = {
+            choose() {
+                when("$pasdannee") { value-of("substring-before($date, '/')"); }
+                otherwise() { value-of("substring-before($date, '/')"); }
+            }
+        }
+
+        value-of("$annee");
+        [-]
+        value-of("format-number(number($mois), '00')");
+        [-]
+        value-of("format-number(number($jour), '00')");
+    }
+
+    match("/") {
+      [{]
+
+      // Insère la date de collecte
+      ["collecte": "] value-of("date:date-time()"); [",]
+      
+      // Supprime la virgule qui traîne à la fin du code JSON généré
+      $json = { apply-templates(); }
+      value-of("substring($json, 1, string-length($json) - 1)");
+
+      [}]
+    }
+
+    // Trouve la ligne du tableau table.tabNiv qui contient une image et
+    // récupère le texte de la première cellule de cette ligne (libellé)
+    // Appelle le template indice-qualite pour transformer le libellé en une
+    // valeur de 0 à 5
+    match("table[@class = 'tabNiv']/tr[descendant::img[@src = '/donnees/images/curseur_noir.jpg']]") {
+        ["indice":]
+        call-template("indice-qualite") {
+            with-param $libelle = "normalize-space(td[1]/text())";
+        }
+        [,]
+    }
+
+    // Date sur laquelle porte l’indice de qualité de l’air
+    match("span[@class = 'tit']/*") {
+        $contenu = "normalize-space(text())";
+        if("starts-with($contenu, 'estimée pour la journée du')") {
+            ["date":"]
+            call-template("prepare-date") {
+                with-param $date = "substring($contenu, 28)";
+            }
+            [",]
+        }
+    }
+
+    // Date de calcul de l’indice de qualité de l’air
+    match("span[@class = 'txt']") {
+        $contenu = "normalize-space(text())";
+        if("starts-with($contenu, 'mise à jour le')") {
+            ["maj":"]
+            call-template("prepare-date") {
+                with-param $date = "substring($contenu, 16)";
+            }
+            [",]
+        }
+    }
+
+    match("node()|text()") {
+        apply-templates("node()");
+    }
+}

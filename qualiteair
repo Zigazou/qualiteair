@@ -1,0 +1,62 @@
+#!/bin/bash
+
+# Récupère le répertoire du script pour avoir un chemin vers le feuille de
+# style fichecommune_json.xsls
+BASEDIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+# Le premier paramètre indique le type de sortie désiré.
+# json pour une sortie json, indice pour uniquement l’indice
+typesortie="$1"
+
+# Le deuxième paramètre contient le nom de la ville suivi de espace tiret espace
+# et le numéro du département. Les majuscules et les espaces sont importants
+# Ex. Rouen → Rouen - 76
+ville="$2"
+
+function aide() {
+    echo 'qualiteair'
+    echo '----------'
+    echo
+    echo 'Utilisation : qualiteair <typesortie> <ville>'
+    echo '  typesortie=indice : retourne uniquement l’indice de qualité'
+    echo '  typesortie=json : retourne l’indice et les dates en JSON'
+    echo '  ville : identifiant de la ville sur AirNormand'
+    echo '          ex pour Rouen : "Rouen - 76"'
+    echo '          (la ville, espace, tiret, espace, numéro du département)'
+
+    exit 1
+}
+
+# Récupère le code HTML de la fiche commune produite par AirNormand
+function recupereHTML() {
+    local ville="$1"
+
+    curl --silent \
+         --get \
+         --data-urlencode 'Action=FICHE_COMMUNE' \
+         --data-urlencode 'patron=FICHE_COMMUNE' \
+         --data-urlencode 's=1' \
+         --data-urlencode "commune=$ville" \
+         'http://www.airnormand.fr/dyn/cgi/action.php'
+}
+
+# Applique une feuille de style XSL au flux en entrée pour le transformer en
+# code JSON
+function scrapVersJSON() {
+    local xsl="$1"
+    
+    xslsproc --html \
+             --novalid \
+             "$xsl" \
+             - \
+             2> /dev/null
+}
+
+[ "$typesortie" != "json" -a "$typesortie" != "indice" ] && aide
+[ "$ville" == "" ] && aide
+
+feuilledestyle="$BASEDIR/fichecommune_indice.xsls"
+[ "$typesortie" == "json" ] && feuilledestyle="$BASEDIR/fichecommune_json.xsls"
+
+recupereHTML "$ville" | scrapVersJSON "$feuilledestyle"
+

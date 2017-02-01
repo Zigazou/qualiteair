@@ -1,0 +1,3232 @@
+Ablon - 14
+Aclou - 27
+Acon - 27
+Acqueville - 14
+Acqueville - 50
+Acquigny - 27
+Agneaux - 50
+Agon-Coutainville - 50
+Agy - 14
+Aigleville - 27
+Aignerville - 14
+Ailly - 27
+Airan - 14
+Airel - 50
+Aizier - 27
+Ajou - 27
+Alençon - 61
+Alizay - 27
+Allouville-Bellefosse - 76
+Almenêches - 61
+Alvimare - 76
+Amayé-sur-Orne - 14
+Amayé-sur-Seulles - 14
+Ambenay - 27
+Amblie - 14
+Ambrumesnil - 76
+Amécourt - 27
+Amfreville - 50
+Amfreville - 14
+Amfreville-la-Campagne - 27
+Amfreville-la-Mi-Voie - 76
+Amfreville-les-Champs - 27
+Amfreville-les-Champs - 76
+Amfreville-sous-les-Monts - 27
+Amfreville-sur-Iton - 27
+Amigny - 50
+Anceaumeville - 76
+Anceins - 61
+Ancourt - 76
+Ancourteville-sur-Héricourt - 76
+Ancretiéville-Saint-Victor - 76
+Ancretteville-sur-Mer - 76
+Ancteville - 50
+Anctoville - 14
+Anctoville-sur-Boscq - 50
+Andé - 27
+Angerville - 14
+Angerville-Bailleul - 76
+Angerville-l'Orcher - 76
+Angerville-la-Campagne - 27
+Angerville-la-Martel - 76
+Angey - 50
+Angiens - 76
+Anglesqueville-l'Esneval - 76
+Anglesqueville-la-Bras-Long - 76
+Angoville - 14
+Angoville-au-Plain - 50
+Angoville-sur-Ay - 50
+Anguerny - 14
+Anisy - 14
+Annebault - 14
+Anneville-Ambourville - 76
+Anneville-en-Saire - 50
+Anneville-sur-Mer - 50
+Anneville-sur-Scie - 76
+Annouville-Vilmesnil - 76
+Annoville - 50
+Anquetierville - 76
+Antoigny - 61
+Anvéville - 76
+Appenai-sous-Bellême - 61
+Appeville - 50
+Appeville-Annebault - 27
+Ardouval - 76
+Arganchy - 14
+Argences - 14
+Argentan - 61
+Argouges - 50
+Argueil - 76
+Armentières-sur-Avre - 27
+Arnières-sur-Iton - 27
+Arques-la-Bataille - 76
+Arromanches-les-Bains - 14
+Asnelles - 14
+Asnières - 27
+Asnières-en-Bessin - 14
+Assigny - 76
+Athis-de-l'Orne - 61
+Aube - 61
+Aubéguimont - 76
+Aubermesnil-aux-Erables - 76
+Aubermesnil-Beaumais - 76
+Auberville - 14
+Auberville-la-Campagne - 76
+Auberville-la-Manuel - 76
+Auberville-la-Renault - 76
+Aubevoye - 27
+Aubigny - 14
+Aubry-en-Exmes - 61
+Aubry-le-Panthou - 61
+Aubusson - 61
+Aucey-la-Plaine - 50
+Auderville - 50
+Audouville-la-Hubert - 50
+Audrieu - 14
+Auffay - 76
+Auguaise - 61
+Aulnay-sur-Iton - 27
+Aumale - 76
+Aumeville-Lestre - 50
+Aunay-les-Bois - 61
+Aunay-sur-Odon - 14
+Aunou-le-Faucon - 61
+Aunou-sur-Orne - 61
+Auppegard - 76
+Auquainville - 14
+Auquemesnil - 76
+Autheuil - 61
+Autheuil-Authouillet - 27
+Authevernes - 27
+Authie - 14
+Authieux-Ratiéville - 76
+Authou - 27
+Autigny - 76
+Autretot - 76
+Auvers - 50
+Auvillars - 14
+Auvilliers - 76
+Auxais - 50
+Auzebosc - 76
+Auzouville-Auberbosc - 76
+Auzouville-l'Esneval - 76
+Auzouville-sur-Ry - 76
+Auzouville-sur-Saâne - 76
+Avenay - 14
+Avernes-Saint-Gourgon - 61
+Avernes-sous-Exmes - 61
+Avesnes-en-Bray - 76
+Avesnes-en-Val - 76
+Aviron - 27
+Avoine - 61
+Avranches - 50
+Avremesnil - 76
+Avrilly - 61
+Avrilly - 27
+Azeville - 50
+Bacilly - 50
+Bacquepuis - 27
+Bacqueville - 27
+Bacqueville-en-Caux - 76
+Bagnoles-de-l'Orne-TessélaMadelaine - 61
+Bailleul - 61
+Bailleul-la-Vallée - 27
+Bailleul-Neuville - 76
+Baillolet - 76
+Bailly-en-Rivière - 76
+Bâlines - 27
+Balleroy - 14
+Banneville-la-Campagne - 14
+Banneville-sur-Ajon - 14
+Banville - 14
+Banvou - 61
+Baons-le-Comte - 76
+Barbery - 14
+Barbeville - 14
+Barc - 27
+Bardouville - 76
+Barentin - 76
+Barenton - 50
+Barfleur - 50
+Barneville-Carteret - 50
+Barneville-la-Bertran - 14
+Barneville-sur-Seine - 27
+Baromesnil - 76
+Baron-sur-Odon - 14
+Barou-en-Auge - 14
+Barquet - 27
+Barville - 27
+Barville - 61
+Basly - 14
+Basseneville - 14
+Batilly - 61
+Baubigny - 50
+Baudre - 50
+Baudreville - 50
+Baupte - 50
+Bauquay - 14
+Bavent - 14
+Bayeux - 14
+Bazenville - 14
+Bazincourt-sur-Epte - 27
+Bazinval - 76
+Bazoches-au-Houlme - 61
+Bazoches-sur-Hoëne - 61
+Bazoques - 27
+Beaubec-la-Rosière - 76
+Beaubray - 27
+Beauchamps - 50
+Beauchêne - 61
+Beaucoudray - 50
+Beaufai - 61
+Beauficel - 50
+Beauficel-en-Lyons - 27
+Beaufour-Druval - 14
+Beaulandais - 61
+Beaulieu - 14
+Beaulieu - 61
+Beaumais - 14
+Beaumesnil - 27
+Beaumesnil - 14
+Beaumont-en-Auge - 14
+Beaumont-Hague - 50
+Beaumont-le-Hareng - 76
+Beaumont-le-Roger - 27
+Beaumontel - 27
+Beaurepaire - 76
+Beaussault - 76
+Beautot - 76
+Beauvain - 61
+Beauval-en-Caux - 76
+Beauvoir - 50
+Beauvoir-en-Lyons - 76
+Bec-de-Mortagne - 76
+Belbeuf - 76
+Belfonds - 61
+Bellavilliers - 61
+Bellefontaine - 50
+Bellême - 61
+Bellencombre - 76
+Bellengreville - 14
+Bellengreville - 76
+Belleville-en-Caux - 76
+Belleville-sur-Mer - 76
+Bellou - 14
+Bellou-en-Houlme - 61
+Bellou-le-Trichard - 61
+Bellou-sur-Huisne - 61
+Belmesnil - 76
+Belval - 50
+Bémécourt - 27
+Bénarville - 76
+Benerville-sur-Mer - 14
+Bénesville - 76
+Bennetot - 76
+Benoîtville - 50
+Bénouville - 14
+Bénouville - 76
+Bény-sur-Mer - 14
+Berd'huis - 61
+Bérengeville-la-Campagne - 27
+Bérigny - 50
+Berjou - 61
+Bermonville - 76
+Bernay - 27
+Bernesq - 14
+Berneval-le-Grand - 76
+Bernienville - 27
+Bernières - 76
+Bernières-d'Ailly - 14
+Bernières-le-Patry - 14
+Bernières-sur-Mer - 14
+Bernières-sur-Seine - 27
+Bernouville - 27
+Bertheauville - 76
+Berthenonville - 27
+Berthouville - 27
+Bertreville - 76
+Bertreville-Saint-Ouen - 76
+Bertrimont - 76
+Berville - 76
+Berville-en-Roumois - 27
+Berville-la-Campagne - 27
+Berville-sur-Mer - 27
+Berville-sur-Seine - 76
+Beslon - 50
+Besneville - 50
+Betteville - 76
+Beuvillers - 14
+Beuvrigny - 50
+Beuvron-en-Auge - 14
+Beuzeville - 27
+Beuzeville-au-Plain - 50
+Beuzeville-la-Bastille - 50
+Beuzeville-la-Grenier - 76
+Beuzeville-la-Guérard - 76
+Beuzevillette - 76
+Bézancourt - 76
+Bézu-la-Forêt - 27
+Bézu-Saint-Eloi - 27
+Bierville - 76
+Biéville - 50
+Biéville-Beuville - 14
+Biéville-Quétiéville - 14
+Bihorel - 76
+Billy - 14
+Biniville - 50
+Bion - 50
+Bissières - 14
+Biville - 50
+Biville-la-Baignarde - 76
+Biville-la-Rivière - 76
+Biville-sur-Mer - 76
+Bivilliers - 61
+Bizou - 61
+Blacqueville - 76
+Blainville-Crevon - 76
+Blainville-sur-Mer - 50
+Blainville-sur-Orne - 14
+Blangy-le-Château - 14
+Blangy-sur-Bresle - 76
+Blay - 14
+Blonville-sur-Mer - 14
+Blosseville - 76
+Blosville - 50
+Bocquencé - 61
+Boëcé - 61
+Bois-Anzeray - 27
+Bois-Arnault - 27
+Bois-d'Ennebourg - 76
+Bois-Guilbert - 76
+Bois-Guillaume - 76
+Bois-Héroult - 76
+Bois-Himont - 76
+Bois-Jérôme-Saint-Ouen - 27
+Bois-l'Evêque - 76
+Bois-le-Roi - 27
+Bois-Normand-près-Lyre - 27
+Boisemont - 27
+Boisney - 27
+Boisroger - 50
+Boissay - 76
+Boissei-la-Lande - 61
+Boisset-les-Prévanches - 27
+Boissey - 14
+Boissey-le-Châtel - 27
+Boissy-Lamberville - 27
+Boissy-Maugis - 61
+Boisyvon - 50
+Boitron - 61
+Bolbec - 76
+Bolleville - 50
+Bolleville - 76
+Boncourt - 27
+Bonnebosq - 14
+Bonnefoi - 61
+Bonnemaison - 14
+Bonneville-Aptot - 27
+Bonneville-la-Louvet - 14
+Bonneville-sur-Touques - 14
+Bonnoeil - 14
+Bons-Tassilly - 14
+Bonsecours - 76
+Bonsmoulins - 61
+Boos - 76
+Bordeaux-Saint-Clair - 76
+Bornambusc - 76
+Bosc-Bénard-Commin - 27
+Bosc-Bénard-Crescy - 27
+Bosc-Bérenger - 76
+Bosc-Bordel - 76
+Bosc-Edeline - 76
+Bosc-Guérard-Saint-Adrien - 76
+Bosc-Hyons - 76
+Bosc-le-Hard - 76
+Bosc-Mesnil - 76
+Bosc-Renoult-en-Ouche - 27
+Bosc-Renoult-en-Roumois - 27
+Bosc-Roger-sur-Buchy - 76
+Bosgouet - 27
+Bosguérard-de-Marcouville - 27
+Bosnormand - 27
+Bosquentin - 27
+Bosrobert - 27
+Bosville - 76
+Bouafles - 27
+Boucé - 61
+Bouchevilliers - 27
+Boudeville - 76
+Bouelles - 76
+Bougy - 14
+Boulleville - 27
+Boulon - 14
+Bouquelon - 27
+Bouquetot - 27
+Bourdainville - 76
+Bourg-Achard - 27
+Bourg-Beaudouin - 27
+Bourgeauville - 14
+Bourgtheroulde-Infreville - 27
+Bourguébus - 14
+Bourguenolles - 50
+Bournainville-Faverolles - 27
+Bourneville - 27
+Bourth - 27
+Bourville - 76
+Boutteville - 50
+Bouville - 76
+Brachy - 76
+Bracquemont - 76
+Bracquetuit - 76
+Bradiancourt - 76
+Braffais - 50
+Brainville - 50
+Brametot - 76
+Branville - 14
+Branville-Hague - 50
+Bray - 27
+Bréauté - 76
+Brécey - 50
+Brectouville - 50
+Bréel - 61
+Bréhal - 50
+Brémontier-Merval - 76
+Brémoy - 14
+Bresolettes - 61
+Brestot - 27
+Bretagnolles - 27
+Breteuil - 27
+Brethel - 61
+Brétigny - 27
+Bretoncelles - 61
+Bretteville - 50
+Bretteville-du-Grand-Caux - 76
+Bretteville-l'Orgueilleuse - 14
+Bretteville-le-Rabet - 14
+Bretteville-Saint-Laurent - 76
+Bretteville-sur-Ay - 50
+Bretteville-sur-Dives - 14
+Bretteville-sur-Laize - 14
+Bretteville-sur-Odon - 14
+Breuilpont - 27
+Breuville - 50
+Breux-sur-Avre - 27
+Brévands - 50
+Bréville-les-Monts - 14
+Bréville-sur-Mer - 50
+Bricquebec - 50
+Bricquebosq - 50
+Bricqueville - 14
+Bricqueville-la-Blouette - 50
+Bricqueville-sur-Mer - 50
+Brieux - 61
+Brillevast - 50
+Brionne - 27
+Briouze - 61
+Brix - 50
+Broglie - 27
+Brosville - 27
+Brouains - 50
+Brouay - 14
+Brucheville - 50
+Brucourt - 14
+Brullemail - 61
+Brunville - 76
+Buais - 50
+Bubertré - 61
+Bucéels - 14
+Buchy - 76
+Bueil - 27
+Buis-sur-Damville - 27
+Bully - 76
+Burcy - 14
+Buré - 61
+Bures - 61
+Bures-en-Bray - 76
+Bures-les-Monts - 14
+Burey - 27
+Bursard - 61
+Bus-Saint-Rémy - 27
+Butot - 76
+Butot-Vénesville - 76
+Cabourg - 14
+Caen - 14
+Cagny - 14
+Cahagnes - 14
+Cahagnolles - 14
+Cahaignes - 27
+Cahan - 61
+Cailleville - 76
+Caillouet-Orgeville - 27
+Cailly - 76
+Cailly-sur-Eure - 27
+Cairon - 14
+Caligny - 61
+Callengeville - 76
+Calleville - 27
+Calleville-les-Deux-Eglises - 76
+Cambernon - 50
+Cambes-en-Plaine - 14
+Cambremer - 14
+Camembert - 61
+Cametours - 50
+Campagnolles - 14
+Campandré-Valcongrain - 14
+Campeaux - 14
+Campigny - 14
+Campigny - 27
+Campneuseville - 76
+Camprond - 50
+Canappeville - 27
+Canapville - 14
+Canapville - 61
+Canchy - 14
+Canehan - 76
+Canisy - 50
+Canouville - 76
+Canteleu - 76
+Canteloup - 50
+Canteloup - 14
+Cantiers - 27
+Canville-la-Rocque - 50
+Canville-les-Deux-Eglises - 76
+Cany-Barville - 76
+Caorches-Saint-Nicolas - 27
+Capelle-les-Grands - 27
+Carantilly - 50
+Carcagny - 14
+Cardonville - 14
+Carentan - 50
+Carnet - 50
+Carneville - 50
+Carolles - 50
+Carpiquet - 14
+Carquebut - 50
+Carrouges - 61
+Carsix - 27
+Cartigny-l'Épinay - 14
+Carville - 14
+Carville-la-Folletière - 76
+Carville-Pot-de-Fer - 76
+Castillon - 14
+Castillon-en-Auge - 14
+Castilly - 14
+Catenay - 76
+Catteville - 50
+Catz - 50
+Caudebec-en-Caux - 76
+Caudebec-lès-Elbeuf - 76
+Caugé - 27
+Caumont - 27
+Caumont-l'Éventé - 14
+Caumont-sur-Orne - 14
+Cauverville-en-Roumois - 27
+Cauvicourt - 14
+Cauville - 14
+Cauville-sur-Mer - 76
+Cavigny - 50
+Ceaucé - 61
+Céaux - 50
+Cérences - 50
+Cerisé - 61
+Cerisy-Belle-Étoile - 61
+Cerisy-la-Forêt - 50
+Cerisy-la-Salle - 50
+Cernay - 14
+Cerqueux - 14
+Cesny-aux-Vignes - 14
+Cesny-Bois-Halbout - 14
+Cesseville - 27
+Ceton - 61
+Chahains - 61
+Chaignes - 27
+Chailloué - 61
+Chaise-Dieu-du-Theil - 27
+Chamblac - 27
+Chambois - 61
+Chambord - 27
+Chambray - 27
+Champ-Dolent - 27
+Champ-du-Boult - 14
+Champ-Haut - 61
+Champcerie - 61
+Champcervon - 50
+Champcey - 50
+Champeaux - 50
+Champeaux-sur-Sarthe - 61
+Champenard - 27
+Champignolles - 27
+Champigny-la-Futelaye - 27
+Champosoult - 61
+Champrepus - 50
+Champs - 61
+Champsecret - 61
+Chandai - 61
+Chanteloup - 50
+Chanteloup - 27
+Chanu - 61
+Charleval - 27
+Chasseguey - 50
+Château-sur-Epte - 27
+Chaulieu - 50
+Chaumont - 61
+Chauvincourt-Provemont - 27
+Chavigny-Bailleul - 27
+Chavoy - 50
+Chef-du-Pont - 50
+Cheffreville-Tonnencourt - 14
+Chemilli - 61
+Chênedollé - 14
+Chênedouit - 61
+Chennebrun - 27
+Cherbourg-Octeville - 50
+Chérencé-le-Héron - 50
+Chérencé-le-Roussel - 50
+Chéronvilliers - 27
+Cheux - 14
+Chèvreville - 50
+Chevry - 50
+Chicheboville - 14
+Chouain - 14
+Cideville - 76
+Cierrey - 27
+Cintheaux - 14
+Cintray - 27
+Ciral - 61
+Cisai-Saint-Aubin - 61
+Civières - 27
+Clairefougère - 61
+Clais - 76
+Clarbec - 14
+Clasville - 76
+Claville - 27
+Claville-Motteville - 76
+Clécy - 14
+Cléon - 76
+Clères - 76
+Cleuville - 76
+Cléville - 14
+Cléville - 76
+Clinchamps-sur-Orne - 14
+Cliponville - 76
+Clitourps - 50
+Coigny - 50
+Collandres-Quincarnon - 27
+Colletot - 27
+Colleville - 76
+Colleville-Montgomery - 14
+Colleville-sur-Mer - 14
+Colmesnil-Manneville - 76
+Colombelles - 14
+Colombières - 14
+Colombiers - 61
+Colombiers-sur-Seulles - 14
+Colomby - 50
+Colomby-sur-Thaon - 14
+Colonard-Corubert - 61
+Comblot - 61
+Combon - 27
+Combray - 14
+Commeaux - 61
+Commes - 14
+Compainville - 76
+Conches-en-Ouche - 27
+Condé-sur-Huisne - 61
+Condé-sur-Ifs - 14
+Condé-sur-Iton - 27
+Condé-sur-Noireau - 14
+Condé-sur-Risle - 27
+Condé-sur-Sarthe - 61
+Condé-sur-Seulles - 14
+Condé-sur-Vire - 50
+Condeau - 61
+Connelles - 27
+Conteville - 14
+Conteville - 76
+Conteville - 27
+Contremoulins - 76
+Contrières - 50
+Coquainvilliers - 14
+Corbon - 61
+Corbon - 14
+Cordebugle - 14
+Cordey - 14
+Cormeilles - 27
+Cormelles-le-Royal - 14
+Cormolain - 14
+Corneuil - 27
+Corneville-la-Fouquetière - 27
+Corneville-sur-Risle - 27
+Corny - 27
+Cosqueville - 50
+Cossesseville - 14
+Cottévrard - 76
+Cottun - 14
+Coudehard - 61
+Coudeville-sur-Mer - 50
+Coudray - 27
+Coudray-Rabut - 14
+Coudres - 27
+Coulimer - 61
+Coulmer - 61
+Coulombs - 14
+Coulonces - 14
+Coulonces - 61
+Coulonges-les-Sablons - 61
+Coulonges-sur-Sarthe - 61
+Coulouvray-Boisbenâtre - 50
+Coulvain - 14
+Coupesarte - 14
+Courbépine - 27
+Courcelles-sur-Seine - 27
+Courcerault - 61
+Courcy - 50
+Courcy - 14
+Courdemanche - 27
+Courgeon - 61
+Courgeoût - 61
+Courménil - 61
+Courseulles-sur-Mer - 14
+Courson - 14
+Courteilles - 27
+Courtils - 50
+Courtomer - 61
+Courtonne-la-Meurdrac - 14
+Courtonne-les-Deux-Églises - 14
+Courvaudon - 14
+Coutances - 50
+Couterne - 61
+Couvains - 50
+Couvains - 61
+Couville - 50
+Craménil - 61
+Crasville - 27
+Crasville - 50
+Crasville-la-Mallet - 76
+Crasville-la-Rocquefort - 76
+Créances - 50
+Crépon - 14
+Cresserons - 14
+Cresseveuille - 14
+Cressy - 76
+Crestot - 27
+Cretteville - 50
+Creully - 14
+Crèvecoeur-en-Auge - 14
+Cricqueboeuf - 14
+Cricqueville-en-Auge - 14
+Cricqueville-en-Bessin - 14
+Criel-sur-Mer - 76
+Criquebeuf-en-Caux - 76
+Criquebeuf-la-Campagne - 27
+Criquebeuf-sur-Seine - 27
+Criquetot-l'Esneval - 76
+Criquetot-le-Mauconduit - 76
+Criquetot-sur-Longueville - 76
+Criquetot-sur-Ouville - 76
+Criquiers - 76
+Cristot - 14
+Critot - 76
+Crocy - 14
+Croisilles - 14
+Croisilles - 61
+Croissanville - 14
+Croisy-sur-Andelle - 76
+Croisy-sur-Eure - 27
+Croix-Mare - 76
+Croixdalle - 76
+Crollon - 50
+Cropus - 76
+Crosville-la-Vieille - 27
+Crosville-sur-Douve - 50
+Crosville-sur-Scie - 76
+Croth - 27
+Crouay - 14
+Crouttes - 61
+Crulai - 61
+Cuissai - 61
+Culey-le-Patry - 14
+Cully - 14
+Curcy-sur-Orne - 14
+Cussy - 14
+Cuverville - 76
+Cuverville - 27
+Cuverville - 14
+Cuverville-sur-Yères - 76
+Cuves - 50
+Cuy-Saint-Fiacre - 76
+Damblainville - 14
+Dame-Marie - 61
+Dame-Marie - 27
+Damigny - 61
+Dampierre - 14
+Dampierre-en-Bray - 76
+Dampierre-Saint-Nicolas - 76
+Dampsmesnil - 27
+Damville - 27
+Dancé - 61
+Dancourt - 76
+Danestal - 14
+Dangu - 27
+Dangy - 50
+Danvou-la-Ferrière - 14
+Dardez - 27
+Darnétal - 76
+Daubeuf-la-Campagne - 27
+Daubeuf-près-Vatteville - 27
+Daubeuf-Serville - 76
+Deauville - 14
+Démouville - 14
+Dénestanville - 76
+Denneville - 50
+Derchigny - 76
+Deux-Jumeaux - 14
+Déville-lès-Rouen - 76
+Dieppe - 76
+Digosville - 50
+Digulleville - 50
+Dives-sur-Mer - 14
+Domfront - 61
+Domjean - 50
+Dompierre - 61
+Donnay - 14
+Donville-les-Bains - 50
+Dorceau - 61
+Douains - 27
+Doudeauville - 76
+Doudeauville-en-Vexin - 27
+Doudeville - 76
+Douville-en-Auge - 14
+Douville-sur-Andelle - 27
+Douvrend - 76
+Douvres-la-Délivrande - 14
+Doville - 50
+Dozulé - 14
+Dragey-Ronthon - 50
+Droisy - 27
+Drosay - 76
+Drubec - 14
+Drucourt - 27
+Ducey - 50
+Duclair - 76
+Ducy-Sainte-Marguerite - 14
+Duranville - 27
+Durcet - 61
+Ecalles-Alix - 76
+Ecaquelon - 27
+Ecardenville-la-Campagne - 27
+Ecardenville-sur-Eure - 27
+Écausseville - 50
+Ecauville - 27
+Échalou - 61
+Échauffour - 61
+Écoquenéauville - 50
+Écorcei - 61
+Écorches - 61
+Ecos - 27
+Écouché - 61
+Ecouis - 27
+Ecquetot - 27
+Ecrainville - 76
+Écrammeville - 14
+Ecretteville-lès-Baons - 76
+Ecretteville-sur-Mer - 76
+Ectot-l'Auber - 76
+Ectot-lès-Baons - 76
+Éculleville - 50
+Elbeuf - 76
+Elbeuf-en-Bray - 76
+Elbeuf-sur-Andelle - 76
+Eletot - 76
+Ellecourt - 76
+Ellon - 14
+Emalleville - 27
+Emanville - 76
+Emanville - 27
+Émiéville - 14
+Émondeville - 50
+Englesqueville-en-Auge - 14
+Englesqueville-la-Percée - 14
+Envermeu - 76
+Envronville - 76
+Epaignes - 27
+Épaney - 14
+Epégard - 27
+Eperrais - 61
+Epieds - 27
+Epinay - 27
+Epinay-sur-Duclair - 76
+Épinay-sur-Odon - 14
+Epouville - 76
+Epretot - 76
+Epreville - 76
+Epreville-en-Lieuvin - 27
+Epreville-en-Roumois - 27
+Epreville-près-le-Neubourg - 27
+Épron - 14
+Équemauville - 14
+Équeurdreville-Hainneville - 50
+Équilly - 50
+Eraines - 14
+Ermenouville - 76
+Ernemont-la-Villette - 76
+Ernemont-sur-Buchy - 76
+Ernes - 14
+Éroudeville - 50
+Esclavelles - 76
+Escoville - 14
+Eslettes - 76
+Espins - 14
+Esquay-Notre-Dame - 14
+Esquay-sur-Seulles - 14
+Essay - 61
+Esson - 14
+Esteville - 76
+Estouteville-Ecalles - 76
+Estrées-la-Campagne - 14
+Estry - 14
+Etaimpuis - 76
+Etainhus - 76
+Etalleville - 76
+Etalondes - 76
+Éterville - 14
+Étienville - 50
+Etoutteville - 76
+Étouvy - 14
+Étréham - 14
+Etrépagny - 27
+Etretat - 76
+Etréville - 27
+Eturqueraye - 27
+Eu - 76
+Évrecy - 14
+Evreux - 27
+Exmes - 61
+Ezy-sur-Eure - 27
+Fains - 27
+Falaise - 14
+Fallencourt - 76
+Familly - 14
+Farceaux - 27
+Fatouville-Grestain - 27
+Fauguernon - 14
+Fauville - 27
+Fauville-en-Caux - 76
+Faverolles - 61
+Faverolles-la-Campagne - 27
+Fay - 61
+Fécamp - 76
+Feings - 61
+Fel - 61
+Fermanville - 50
+Ferrières - 50
+Ferrières-en-Bray - 76
+Ferrières-Haut-Clocher - 27
+Ferrières-la-Verrerie - 61
+Ferrières-Saint-Hilaire - 27
+Fervaches - 50
+Fervaques - 14
+Fesques - 76
+Feugères - 50
+Feuguerolles - 27
+Feuguerolles-Bully - 14
+Fierville-Bray - 14
+Fierville-les-Mines - 50
+Fierville-les-Parcs - 14
+Fiquefleur-Equainville - 27
+Firfol - 14
+Flamanville - 76
+Flamanville - 50
+Flamets-Frétils - 76
+Flancourt-Catelon - 27
+Flers - 61
+Fleuré - 61
+Fleury - 50
+Fleury-la-Forêt - 27
+Fleury-sur-Andelle - 27
+Fleury-sur-Orne - 14
+Flipou - 27
+Flocques - 76
+Flottemanville - 50
+Flottemanville-Hague - 50
+Folleville - 27
+Folligny - 50
+Fongueusemare - 76
+Fontaine-Bellenger - 27
+Fontaine-en-Bray - 76
+Fontaine-Étoupefour - 14
+Fontaine-Henry - 14
+Fontaine-Heudebourg - 27
+Fontaine-l'Abbé - 27
+Fontaine-la-Louvet - 27
+Fontaine-la-Mallet - 76
+Fontaine-la-Soret - 27
+Fontaine-le-Bourg - 76
+Fontaine-le-Dun - 76
+Fontaine-le-Pin - 14
+Fontaine-les-Bassets - 61
+Fontaine-sous-Jouy - 27
+Fontaine-sous-Préaux - 76
+Fontenai-les-Louvets - 61
+Fontenai-sur-Orne - 61
+Fontenay - 27
+Fontenay - 76
+Fontenay - 50
+Fontenay-le-Marmion - 14
+Fontenay-le-Pesnel - 14
+Fontenay-sur-Mer - 50
+Fontenermont - 14
+Forêt-la-Folie - 27
+Forges - 61
+Forges-les-Eaux - 76
+Formentin - 14
+Formigny - 14
+Fort-Moville - 27
+Foucarmont - 76
+Foucart - 76
+Foucarville - 50
+Foucrainville - 27
+Foulbec - 27
+Foulognes - 14
+Fouqueville - 27
+Fourches - 14
+Fourges - 27
+Fourmetot - 27
+Fourneaux - 50
+Fourneaux-le-Val - 14
+Fourneville - 14
+Fours-en-Vexin - 27
+Francheville - 61
+Francheville - 27
+Franqueville - 27
+Franqueville-Saint-Pierre - 76
+Fréauville - 76
+Frênes - 61
+Freneuse - 76
+Freneuse-sur-Risle - 27
+Frénouville - 14
+Fresles - 76
+Fresnay-le-Long - 76
+Fresnay-le-Samson - 61
+Fresne-Cauverville - 27
+Fresne-l'Archevêque - 27
+Fresné-la-Mère - 14
+Fresne-le-Plan - 76
+Fresney - 27
+Fresney-le-Puceux - 14
+Fresney-le-Vieux - 14
+Fresnoy-Folny - 76
+Fresquiennes - 76
+Fresville - 50
+Freulleville - 76
+Fréville - 76
+Friardel - 14
+Frichemesnil - 76
+Froberville - 76
+Fry - 76
+Fultot - 76
+Fumichon - 14
+Gacé - 61
+Gadencourt - 27
+Gaillardbois-Cressenville - 27
+Gaillefontaine - 76
+Gaillon - 27
+Gainneville - 76
+Gamaches-en-Vexin - 27
+Gancourt-Saint-Etienne - 76
+Gandelain - 61
+Ganzeville - 76
+Gâprée - 61
+Garcelles-Secqueville - 14
+Garencières - 27
+Garennes-sur-Eure - 27
+Gasny - 27
+Gathemo - 50
+Gatteville-le-Phare - 50
+Gauciel - 27
+Gaudreville-la-Rivière - 27
+Gauville - 61
+Gauville-la-Campagne - 27
+Gavray - 50
+Gavrus - 14
+Geffosses - 50
+Géfosse-Fontenay - 14
+Gémages - 61
+Geneslay - 61
+Genêts - 50
+Genneville - 14
+Ger - 50
+Gerponville - 76
+Gerrots - 14
+Gerville - 76
+Giberville - 14
+Giel-Courteilles - 61
+Giéville - 50
+Ginai - 61
+Gisay-la-Coudre - 27
+Gisors - 27
+Giverny - 27
+Giverville - 27
+Glanville - 14
+Glatigny - 50
+Glicourt - 76
+Glisolles - 27
+Glos - 14
+Glos-la-Ferrière - 61
+Glos-sur-Risle - 27
+Goderville - 76
+Godisson - 61
+Golleville - 50
+Gommerville - 76
+Gonfreville - 50
+Gonfreville-Caillot - 76
+Gonfreville-l'Orcher - 76
+Gonnetot - 76
+Gonneville - 50
+Gonneville-en-Auge - 14
+Gonneville-la-Mallet - 76
+Gonneville-sur-Honfleur - 14
+Gonneville-sur-Mer - 14
+Gonneville-sur-Scie - 76
+Gonzeville - 76
+Gorges - 50
+Gouberville - 50
+Gouchaupre - 76
+Goulet - 61
+Goupillières - 27
+Goupillières - 76
+Goupillières - 14
+Gourbesville - 50
+Gourfaleur - 50
+Gournay-en-Bray - 76
+Gournay-le-Guérin - 27
+Goustranville - 14
+Gouttières - 27
+Gouvets - 50
+Gouville - 27
+Gouville-sur-Mer - 50
+Gouvix - 14
+Gouy - 76
+Graignes-Mesnil-Angot - 50
+Graimbouville - 76
+Grainville - 27
+Grainville-la-Teinturière - 76
+Grainville-Langannerie - 14
+Grainville-sur-Odon - 14
+Grainville-sur-Ry - 76
+Grainville-Ymauville - 76
+Grand-Camp - 27
+Grand-Camp - 76
+Grand-Couronne - 76
+Grandcamp-Maisy - 14
+Grandchain - 27
+Grandchamp-le-Château - 14
+Grandcourt - 76
+Grandvilliers - 27
+Grangues - 14
+Granville - 50
+Gratot - 50
+Graval - 76
+Graveron-Sémerville - 27
+Gravigny - 27
+Graye-sur-Mer - 14
+Grèges - 76
+Grémonville - 76
+Grentheville - 14
+Greny - 76
+Greuville - 76
+Gréville-Hague - 50
+Grigneuseville - 76
+Grimbosq - 14
+Grimesnil - 50
+Grosley-sur-Risle - 27
+Grossœuvre - 27
+Grosville - 50
+Gruchet-le-Valasse - 76
+Gruchet-Saint-Siméon - 76
+Grugny - 76
+Grumesnil - 76
+Guéhébert - 50
+Guêprei - 61
+Guernanville - 27
+Guerny - 27
+Guéron - 14
+Guerquesalles - 61
+Guerville - 76
+Gueures - 76
+Gueutteville - 76
+Gueutteville-les-Grès - 76
+Guichainville - 27
+Guilberville - 50
+Guilmécourt - 76
+Guiseniers - 27
+Guitry - 27
+Habloville - 61
+Hacqueville - 27
+Haleine - 61
+Hamars - 14
+Hambye - 50
+Hamelin - 50
+Harcanville - 76
+Harcourt - 27
+Hardencourt-Cocherel - 27
+Hardinvast - 50
+Harfleur - 76
+Harquency - 27
+Hattenville - 76
+Haucourt - 76
+Haudricourt - 76
+Haussez - 76
+Hauterive - 61
+Hauteville-la-Guichard - 50
+Hauteville-sur-Mer - 50
+Hautot-l'Auvray - 76
+Hautot-le-Vatois - 76
+Hautot-Saint-Sulpice - 76
+Hautot-sur-Mer - 76
+Hautot-sur-Seine - 76
+Hautteville-Bocage - 50
+Hauville - 27
+Héauville - 50
+Hébécourt - 27
+Hébécrevon - 50
+Héberville - 76
+Hecmanville - 27
+Hécourt - 27
+Hectomare - 27
+Helleville - 50
+Héloup - 61
+Hémevez - 50
+Hennezis - 27
+Hénouville - 76
+Hérenguerville - 50
+Héricourt-en-Caux - 76
+Hermanville - 76
+Hermanville-sur-Mer - 14
+Hermeville - 76
+Hermival-les-Vaux - 14
+Héronchelles - 76
+Hérouville-Saint-Clair - 14
+Hérouvillette - 14
+Herqueville - 50
+Herqueville - 27
+Heubécourt-Haricourt - 27
+Heudebouville - 27
+Heudicourt - 27
+Heudreville-en-Lieuvin - 27
+Heudreville-sur-Eure - 27
+Heugleville-sur-Scie - 76
+Heugon - 61
+Heugueville-sur-Sienne - 50
+Heuland - 14
+Heuqueville - 76
+Heuqueville - 27
+Heurteauville - 76
+Heurtevent - 14
+Heussé - 50
+Hiesville - 50
+Hiéville - 14
+Hocquigny - 50
+Hodeng-au-Bosc - 76
+Hodeng-Hodenger - 76
+Hondouville - 27
+Honfleur - 14
+Honguemare-Guenouville - 27
+Hotot-en-Auge - 14
+Hottot-les-Bagues - 14
+Houdetot - 76
+Houesville - 50
+Houetteville - 27
+Houlbec-Cocherel - 27
+Houlbec-près-le-Gros-Theil - 27
+Houlgate - 14
+Houppeville - 76
+Houquetot - 76
+Houtteville - 50
+Houville-en-Vexin - 27
+Hubert-Folie - 14
+Huberville - 50
+Hudimesnil - 50
+Huest - 27
+Hugleville-en-Caux - 76
+Huisnes-sur-Mer - 50
+Husson - 50
+Hyenville - 50
+Ifs - 14
+Igé - 61
+Igoville - 27
+Illeville-sur-Montfort - 27
+Illiers-l'Evêque - 27
+Illois - 76
+Imbleville - 76
+Incarville - 27
+Incheville - 76
+Ingouville - 76
+Intraville - 76
+Irai - 61
+Irreville - 27
+Isigny-le-Buat - 50
+Isigny-sur-Mer - 14
+Isneauville - 76
+Iville - 27
+Ivry-la-Bataille - 27
+Janville - 14
+Jobourg - 50
+Joganville - 50
+Jonquerets-de-Livet - 27
+Jort - 14
+Joué-du-Bois - 61
+Joué-du-Plain - 61
+Jouy-sur-Eure - 27
+Juaye-Mondaye - 14
+Juignettes - 27
+Juilley - 50
+Jullouville - 50
+Jumelles - 27
+Jumièges - 76
+Jurques - 14
+Juvigny-le-Tertre - 50
+Juvigny-sous-Andaine - 61
+Juvigny-sur-Orne - 61
+Juvigny-sur-Seulles - 14
+L' Aigle - 61
+L' Épinay-le-Comte - 61
+L' Étang-Bertrand - 50
+L' Hermitière - 61
+L' Hôme-Chamondot - 61
+L' Hôtellerie - 14
+L' Oudon - 14
+L'Habit - 27
+L'Hosmes - 27
+La Baleine - 50
+La Baroche-sous-Lucé - 61
+La Barre-de-Semilly - 50
+La Barre-en-Ouche - 27
+La Bazoge - 50
+La Bazoque - 14
+La Bazoque - 61
+La Bellière - 76
+La Bellière - 61
+La Bigne - 14
+La Bloutière - 50
+La Boissière - 27
+La Boissière - 14
+La Bonneville - 50
+La Bonneville-sur-Iton - 27
+La Bouille - 76
+La Brévière - 14
+La Caine - 14
+La Cambe - 14
+La Carneille - 61
+La Cerlangue - 76
+La Chaise-Baudouin - 50
+La Chapelle-au-Moine - 61
+La Chapelle-Bayvel - 27
+La Chapelle-Biche - 61
+La Chapelle-Cécelin - 50
+La Chapelle-d'Andaine - 61
+La Chapelle-du-Bois-des-Faulx - 27
+La Chapelle-du-Bourgay - 76
+La Chapelle-en-Juger - 50
+La Chapelle-Engerbold - 14
+La Chapelle-Gauthier - 27
+La Chapelle-Hareng - 27
+La Chapelle-Haute-Grue - 14
+La Chapelle-Montligeon - 61
+La Chapelle-près-Sées - 61
+La Chapelle-Réanville - 27
+La Chapelle-Saint-Ouen - 76
+La Chapelle-Souëf - 61
+La Chapelle-sur-Dun - 76
+La Chapelle-Urée - 50
+La Chapelle-Viel - 61
+La Chapelle-Yvon - 14
+La Chaussée - 76
+La Chaux - 61
+La Cochère - 61
+La Colombe - 50
+La Coulonche - 61
+La Courbe - 61
+La Couture-Boussey - 27
+La Crique - 76
+La Croisille - 27
+La Croix-Avranchin - 50
+La Croix-Saint-Leufroy - 27
+La Croupte - 14
+La Ferrière-au-Doyen - 61
+La Ferrière-aux-Étangs - 61
+La Ferrière-Béchet - 61
+La Ferrière-Bochard - 61
+La Ferrière-Harang - 14
+La Ferrière-sur-Risle - 27
+La Ferté-Frênel - 61
+La Ferté-Macé - 61
+La Ferté-Saint-Samson - 76
+La Feuillie - 76
+La Feuillie - 50
+La Folie - 14
+La Folletière - 76
+La Folletière-Abenon - 14
+La Fontelaye - 76
+La Forêt-Auvray - 61
+La Forêt-du-Parc - 27
+La Frénaye - 76
+La Fresnaie-Fayel - 61
+La Fresnaye-au-Sauvage - 61
+La Gaillarde - 76
+La Genevraie - 61
+La Glacerie - 50
+La Godefroy - 50
+La Gohannière - 50
+La Gonfrière - 61
+La Goulafrière - 27
+La Graverie - 14
+La Guéroulde - 27
+La Hallotière - 76
+La Harengère - 27
+La Haute-Chapelle - 61
+La Haye - 76
+La Haye-Aubrée - 27
+La Haye-Bellefond - 50
+La Haye-d'Ectot - 50
+La Haye-de-Calleville - 27
+La Haye-de-Routot - 27
+La Haye-du-Puits - 50
+La Haye-du-Theil - 27
+La Haye-le-Comte - 27
+La Haye-Malherbe - 27
+La Haye-Pesnel - 50
+La Haye-Saint-Sylvestre - 27
+La Heunière - 27
+La Hoguette - 14
+La Houblonnière - 14
+La Houssaye - 27
+La Houssaye-Béranger - 76
+La Lande-d'Airou - 50
+La Lande-de-Goult - 61
+La Lande-de-Lougé - 61
+La Lande-Patry - 61
+La Lande-Saint-Léger - 27
+La Lande-Saint-Siméon - 61
+La Lande-sur-Drôme - 14
+La Lande-sur-Eure - 61
+La Londe - 76
+La Lucerne-d'Outremer - 50
+La Luzerne - 50
+La Madeleine-Bouvet - 61
+La Madeleine-de-Nonancourt - 27
+La Mailleraye-sur-Seine - 76
+La Mancellière-sur-Vire - 50
+La Meauffe - 50
+La Mesnière - 61
+La Meurdraquière - 50
+La Motte-Fouquet - 61
+La Mouche - 50
+La Neuve-Grange - 27
+La Neuve-Lyre - 27
+La Neuville-Chant-d'Oisel - 76
+La Neuville-du-Bosc - 27
+La Noë-Poulain - 27
+La Pernelle - 50
+La Perrière - 61
+La Pommeraye - 14
+La Poterie-au-Perche - 61
+La Poterie-Cap-d'Antifer - 76
+La Poterie-Mathieu - 27
+La Pyle - 27
+La Remuée - 76
+La Rivière-Saint-Sauveur - 14
+La Roche-Mabile - 61
+La Rochelle-Normande - 50
+La Rocque - 14
+La Ronde-Haye - 50
+La Roque-Baignard - 14
+La Roquette - 27
+La Rouge - 61
+La Roussière - 27
+La Rue-Saint-Pierre - 76
+La Saussaye - 27
+La Sauvagère - 61
+La Selle-la-Forge - 61
+La Trinité - 27
+La Trinité - 50
+La Trinité-de-Réville - 27
+La Trinité-de-Thouberville - 27
+La Trinité-des-Laitiers - 61
+La Trinité-du-Mont - 76
+La Vacherie - 27
+La Vacquerie - 14
+La Vaupalière - 76
+La Vendelée - 50
+La Ventrouze - 61
+La Vespière - 14
+La Vieille-Lyre - 27
+La Vieux-Rue - 76
+La Villette - 14
+Laize-la-Ville - 14
+Lalacelle - 61
+Laleu - 61
+Lamberville - 50
+Lamberville - 76
+Lammerville - 76
+Landelles-et-Coupigny - 14
+Landepéreuse - 27
+Landes-sur-Ajon - 14
+Landes-Vieilles-et-Neuves - 76
+Landigou - 61
+Landisacq - 61
+Langrune-sur-Mer - 14
+Lanquetot - 76
+Lantheuil - 14
+Lapenty - 50
+Larchamp - 61
+Larré - 61
+Lasson - 14
+Lassy - 14
+Laulne - 50
+Launay - 27
+Le Bec-Hellouin - 27
+Le Bec-Thomas - 27
+Le Bény-Bocage - 14
+Le Bô - 14
+Le Bocasse - 76
+Le Bois-Hellain - 27
+Le Bois-Robert - 76
+Le Bosc-Renoult - 61
+Le Bosc-Roger-en-Roumois - 27
+Le Bouillon - 61
+Le Boulay-Morin - 27
+Le Bourg-Dun - 76
+Le Bourg-Saint-Léonard - 61
+Le Breuil-en-Auge - 14
+Le Breuil-en-Bessin - 14
+Le Brévedent - 14
+Le Bû-sur-Rouvres - 14
+Le Catelier - 76
+Le Caule-Sainte-Beuve - 76
+Le Cercueil - 61
+Le Chalange - 61
+Le Champ-de-la-Pierre - 61
+Le Château-d'Almenêches - 61
+Le Châtellier - 61
+Le Chefresne - 50
+Le Chesne - 27
+Le Cormier - 27
+Le Désert - 14
+Le Détroit - 14
+Le Dézert - 50
+Le Faulq - 14
+Le Favril - 27
+Le Fidelaire - 27
+Le Fossé - 76
+Le Fournet - 14
+Le Fresne - 27
+Le Fresne-Camilly - 14
+Le Fresne-Poret - 50
+Le Gast - 14
+Le Grais - 61
+Le Grand-Celland - 50
+Le Grand-Quevilly - 76
+Le Gros-Theil - 27
+Le Gué-de-la-Chaîne - 61
+Le Guislain - 50
+Le Ham - 50
+Le Hanouard - 76
+Le Havre - 76
+Le Héron - 76
+Le Hommet-d'Arthenay - 50
+Le Houlme - 76
+Le Landin - 27
+Le Locheur - 14
+Le Loreur - 50
+Le Lorey - 50
+Le Luot - 50
+Le Mage - 61
+Le Manoir - 14
+Le Manoir - 27
+Le Marais-la-Chapelle - 14
+Le Mêle-sur-Sarthe - 61
+Le Ménil-Bérard - 61
+Le Ménil-Broût - 61
+Le Ménil-Ciboult - 61
+Le Ménil-de-Briouze - 61
+Le Ménil-Guyon - 61
+Le Ménil-Scelleur - 61
+Le Ménil-Vicomte - 61
+Le Merlerault - 61
+Le Mesnil - 50
+Le Mesnil-Adelée - 50
+Le Mesnil-Amand - 50
+Le Mesnil-Amey - 50
+Le Mesnil-au-Grain - 14
+Le Mesnil-au-Val - 50
+Le Mesnil-Aubert - 50
+Le Mesnil-Auzouf - 14
+Le Mesnil-Bacley - 14
+Le Mesnil-Benoist - 14
+Le Mesnil-Caussois - 14
+Le Mesnil-Durand - 14
+Le Mesnil-Durdent - 76
+Le Mesnil-Esnard - 76
+Le Mesnil-Eudes - 14
+Le Mesnil-Eury - 50
+Le Mesnil-Fuguet - 27
+Le Mesnil-Garnier - 50
+Le Mesnil-Germain - 14
+Le Mesnil-Gilbert - 50
+Le Mesnil-Guillaume - 14
+Le Mesnil-Hardray - 27
+Le Mesnil-Herman - 50
+Le Mesnil-Jourdain - 27
+Le Mesnil-Lieubray - 76
+Le Mesnil-Mauger - 14
+Le Mesnil-Opac - 50
+Le Mesnil-Ozenne - 50
+Le Mesnil-Patry - 14
+Le Mesnil-Rainfray - 50
+Le Mesnil-Raoult - 50
+Le Mesnil-Réaume - 76
+Le Mesnil-Robert - 14
+Le Mesnil-Rogues - 50
+Le Mesnil-Rouxelin - 50
+Le Mesnil-Simon - 14
+Le Mesnil-sous-Jumièges - 76
+Le Mesnil-sur-Blangy - 14
+Le Mesnil-Tôve - 50
+Le Mesnil-Véneron - 50
+Le Mesnil-Vigot - 50
+Le Mesnil-Villeman - 50
+Le Mesnil-Villement - 14
+Le Mesnilbus - 50
+Le Mesnillard - 50
+Le Molay-Littry - 14
+Le Mont-Saint-Michel - 50
+Le Neubourg - 27
+Le Neufbourg - 50
+Le Noyer-en-Ouche - 27
+Le Pas-Saint-l'Homer - 61
+Le Perron - 50
+Le Petit-Celland - 50
+Le Petit-Quevilly - 76
+Le Pin - 14
+Le Pin-au-Haras - 61
+Le Pin-la-Garenne - 61
+Le Planquay - 27
+Le Plantis - 61
+Le Plessis-Grimoult - 14
+Le Plessis-Grohan - 27
+Le Plessis-Hébert - 27
+Le Plessis-Lastelle - 50
+Le Plessis-Sainte-Opportune - 27
+Le Pré-d'Auge - 14
+Le Reculey - 14
+Le Renouard - 61
+Le Roncenay-Authenay - 27
+Le Rozel - 50
+Le Sacq - 27
+Le Sap - 61
+Le Sap-André - 61
+Le Tanu - 50
+Le Teilleul - 50
+Le Theil - 50
+Le Theil - 61
+Le Theil-Bocage - 14
+Le Theil-en-Auge - 14
+Le Theil-Nolent - 27
+Le Thil - 27
+Le Thil-Riberpré - 76
+Le Thuit - 27
+Le Thuit-Anger - 27
+Le Thuit-Signol - 27
+Le Thuit-Simer - 27
+Le Tilleul - 76
+Le Tilleul-Lambert - 27
+Le Tilleul-Othon - 27
+Le Torp-Mesnil - 76
+Le Torpt - 27
+Le Torquesne - 14
+Le Tourneur - 14
+Le Trait - 76
+Le Tremblay-Omonville - 27
+Le Tréport - 76
+Le Troncq - 27
+Le Tronquay - 27
+Le Tronquay - 14
+Le Val-David - 27
+Le Val-Saint-Père - 50
+Le Valdécie - 50
+Le Vast - 50
+Le Vaudreuil - 27
+Le Vey - 14
+Le Vicel - 50
+Le Vieil-Evreux - 27
+Le Vrétot - 50
+Léaupartie - 14
+Lécaude - 14
+Leffard - 14
+Lénault - 14
+Lengronne - 50
+Léry - 27
+Les Andelys - 27
+Les Aspres - 61
+Les Autels-Saint-Bazile - 14
+Les Authieux - 27
+Les Authieux-du-Puits - 61
+Les Authieux-Papion - 14
+Les Authieux-sur-Calonne - 14
+Les Authieux-sur-le-Port-Saint-Ouen - 76
+Les Barils - 27
+Les Baux-de-Breteuil - 27
+Les Baux-Sainte-Croix - 27
+Les Bottereaux - 27
+Les Cent-Acres - 76
+Les Chambres - 50
+Les Champeaux - 61
+Les Champs-de-Losque - 50
+Les Chéris - 50
+Les Cresnays - 50
+Les Damps - 27
+Les Essarts - 27
+Les Genettes - 61
+Les Grandes-Ventes - 76
+Les Hogues - 27
+Les Ifs - 76
+Les Isles-Bardel - 14
+Les Loges - 14
+Les Loges - 76
+Les Loges-Marchis - 50
+Les Loges-Saulces - 14
+Les Loges-sur-Brécey - 50
+Les Menus - 61
+Les Moitiers-d'Allonne - 50
+Les Moitiers-en-Bauptois - 50
+Les Monceaux - 14
+Les Moutiers-en-Auge - 14
+Les Moutiers-en-Cinglais - 14
+Les Moutiers-Hubert - 14
+Les Oubeaux - 14
+Les Perques - 50
+Les Pieux - 50
+Les Places - 27
+Les Préaux - 27
+Les Rotours - 61
+Les Thilliers-en-Vexin - 27
+Les Tourailles - 61
+Les Trois-Pierres - 76
+Les Ventes - 27
+Les Ventes-de-Bourse - 61
+Les Veys - 50
+Les Yveteaux - 61
+Lessard-et-le-Chêne - 14
+Lessay - 50
+Lestanville - 76
+Lestre - 50
+Letteguives - 27
+Liesville-sur-Douve - 50
+Lieurey - 27
+Lieusaint - 50
+Lignères - 61
+Lignerolles - 61
+Lignerolles - 27
+Lignou - 61
+Lillebonne - 76
+Lilly - 27
+Limésy - 76
+Limpiville - 76
+Lindebeuf - 76
+Lingeard - 50
+Lingèvres - 14
+Lingreville - 50
+Lintot - 76
+Lintot-les-Bois - 76
+Lion-sur-Mer - 14
+Lisieux - 14
+Lison - 14
+Lisores - 14
+Lisors - 27
+Lithaire - 50
+Litteau - 14
+Livaie - 61
+Livarot - 14
+Livet-sur-Authou - 27
+Livry - 14
+Loisail - 61
+Lolif - 50
+Londinières - 76
+Longchamps - 27
+Longmesnil - 76
+Longny-au-Perche - 61
+Longraye - 14
+Longroy - 76
+Longueil - 76
+Longuenoë - 61
+Longuerue - 76
+Longues-sur-Mer - 14
+Longueville - 50
+Longueville - 14
+Longueville-sur-Scie - 76
+Longvillers - 14
+Lonlay-l'Abbaye - 61
+Lonlay-le-Tesson - 61
+Lonrai - 61
+Loré - 61
+Lorleau - 27
+Loucé - 61
+Loucelles - 14
+Lougé-sur-Maire - 61
+Louvagny - 14
+Louversey - 27
+Louvetot - 76
+Louvières - 14
+Louvières-en-Auge - 61
+Louviers - 27
+Louvigny - 14
+Louye - 27
+Lozon - 50
+Luc-sur-Mer - 14
+Lucé - 61
+Lucy - 76
+Luneray - 76
+Lyons-la-Forêt - 27
+Macé - 61
+Macey - 50
+Magneville - 50
+Magny-en-Bessin - 14
+Magny-la-Campagne - 14
+Magny-le-Désert - 61
+Magny-le-Freule - 14
+Mahéru - 61
+Mainneville - 27
+Maison-Maugis - 61
+Maisoncelles-la-Jourdan - 14
+Maisoncelles-Pelvey - 14
+Maisoncelles-sur-Ajon - 14
+Maisons - 14
+Maizet - 14
+Maizières - 14
+Malaunay - 76
+Mâle - 61
+Malétable - 61
+Malleville-les-Grès - 76
+Malleville-sur-le-Bec - 27
+Malloué - 14
+Malouy - 27
+Maltot - 14
+Mandeville - 27
+Mandeville-en-Bessin - 14
+Mandres - 27
+Manéglise - 76
+Manéhouville - 76
+Manerbe - 14
+Maniquerville - 76
+Manneville-ès-Plains - 76
+Manneville-la-Goupil - 76
+Manneville-la-Pipard - 14
+Manneville-la-Raoult - 27
+Manneville-sur-Risle - 27
+Mannevillette - 76
+Manthelon - 27
+Mantilly - 61
+Manvieux - 14
+Marais-Vernier - 27
+Marbeuf - 27
+Marcei - 61
+Marcey-les-Grèves - 50
+Marchainville - 61
+Marchemaisons - 61
+Marchésieux - 50
+Marcilly - 50
+Marcilly-la-Campagne - 27
+Marcilly-sur-Eure - 27
+Mardilly - 61
+Margueray - 50
+Marigny - 50
+Marmouillé - 61
+Marolles - 14
+Maromme - 76
+Marques - 76
+Martagny - 27
+Martainville - 27
+Martainville - 14
+Martainville-Epreville - 76
+Martigny - 76
+Martigny - 50
+Martigny-sur-l'Ante - 14
+Martin-Eglise - 76
+Martinvast - 50
+Martot - 27
+Martragny - 14
+Massy - 76
+Mathieu - 14
+Mathonville - 76
+Maucomble - 76
+Maulévrier-Sainte-Gertrude - 76
+Mauny - 76
+Maupertuis - 50
+Maupertus-sur-Mer - 50
+Mauquenchy - 76
+Mauves-sur-Huisne - 61
+May-sur-Orne - 14
+Méautis - 50
+Médavy - 61
+Méhoudin - 61
+Mélamare - 76
+Mélicourt - 27
+Melleville - 76
+Ménerval - 76
+Ménesqueville - 27
+Ménil-Erreux - 61
+Ménil-Froger - 61
+Ménil-Gondouin - 61
+Ménil-Hermei - 61
+Ménil-Hubert-en-Exmes - 61
+Ménil-Hubert-sur-Orne - 61
+Ménil-Jean - 61
+Ménil-Vin - 61
+Ménilles - 27
+Menneval - 27
+Ménonval - 76
+Mentheville - 76
+Mercey - 27
+Merey - 27
+Merri - 61
+Merville-Franceville-Plage - 14
+Méry-Corbon - 14
+Mésangueville - 76
+Meslay - 14
+Mesnières-en-Bray - 76
+Mesnil-Clinchamps - 14
+Mesnil-Follemprise - 76
+Mesnil-Mauger - 76
+Mesnil-Panneville - 76
+Mesnil-Raoul - 76
+Mesnil-Rousset - 27
+Mesnil-sous-Vienne - 27
+Mesnil-sur-l'Estrée - 27
+Mesnil-Verclives - 27
+Messei - 61
+Meulers - 76
+Meulles - 14
+Meuvaines - 14
+Mézidon-Canon - 14
+Mézières-en-Vexin - 27
+Mieuxcé - 61
+Millebosc - 76
+Millières - 50
+Milly - 50
+Mirville - 76
+Miserey - 27
+Missy - 14
+Mittois - 14
+Mobecq - 50
+Moisville - 27
+Molagnies - 76
+Monceaux-au-Perche - 61
+Monceaux-en-Bessin - 14
+Monchaux-Soreng - 76
+Monchy-sur-Eu - 76
+Moncy - 61
+Mondeville - 14
+Mondrainville - 14
+Monfréville - 14
+Monnai - 61
+Mont-Bertrand - 14
+Mont-Cauvaire - 76
+Mont-de-l'If - 76
+Mont-Ormel - 61
+Mont-Saint-Aignan - 76
+Montabard - 61
+Montabot - 50
+Montaigu-la-Brisette - 50
+Montaigu-les-Bois - 50
+Montamy - 14
+Montanel - 50
+Montaure - 27
+Montbray - 50
+Montchamp - 14
+Montchaton - 50
+Montchauvet - 14
+Montchevrel - 61
+Montcuit - 50
+Montebourg - 50
+Monteille - 14
+Montérolier - 76
+Montfarville - 50
+Montfiquet - 14
+Montfort-sur-Risle - 27
+Montgardon - 50
+Montgaroult - 61
+Montgaudry - 61
+Monthuchon - 50
+Montigny - 14
+Montigny - 76
+Montilly-sur-Noireau - 61
+Montivilliers - 76
+Montjoie-Saint-Martin - 50
+Montmain - 76
+Montmartin-en-Graignes - 50
+Montmartin-sur-Mer - 50
+Montmerrei - 61
+Montpinchon - 50
+Montrabot - 50
+Montreuil-au-Houlme - 61
+Montreuil-en-Auge - 14
+Montreuil-en-Caux - 76
+Montreuil-l'Argillé - 27
+Montreuil-la-Cambe - 61
+Montreuil-sur-Lozon - 50
+Montroty - 76
+Monts-en-Bessin - 14
+Montsecret - 61
+Montsurvent - 50
+Montviette - 14
+Montville - 76
+Montviron - 50
+Moon-sur-Elle - 50
+Morainville-Jouveaux - 27
+Morgny - 27
+Morgny-la-Pommeraye - 76
+Morienne - 76
+Morigny - 50
+Morsalines - 50
+Morsan - 27
+Mortagne-au-Perche - 61
+Mortain - 50
+Morteaux-Couliboeuf - 14
+Mortemer - 76
+Mortrée - 61
+Morville - 50
+Morville-sur-Andelle - 76
+Mosles - 14
+Motteville - 76
+Mouen - 14
+Mouettes - 27
+Mouflaines - 27
+Moulicent - 61
+Moulineaux - 76
+Moulines - 14
+Moulines - 50
+Moulins-la-Marche - 61
+Moulins-sur-Orne - 61
+Moult - 14
+Mousseaux-Neuville - 27
+Moussonvilliers - 61
+Moutiers-au-Perche - 61
+Moyaux - 14
+Moyon - 50
+Muchedent - 76
+Muids - 27
+Muneville-le-Bingard - 50
+Muneville-sur-Mer - 50
+Mutrécy - 14
+Muzy - 27
+Nagel-Séez-Mesnil - 27
+Nassandres - 27
+Nay - 50
+Neaufles-Auvergny - 27
+Neaufles-Saint-Martin - 27
+Neauphe-sous-Essai - 61
+Neauphe-sur-Dive - 61
+Nécy - 61
+Négreville - 50
+Néhou - 50
+Nesle-Hodeng - 76
+Nesle-Normandeuse - 76
+Neuf-Marché - 76
+Neufbosc - 76
+Neufchâtel-en-Bray - 76
+Neufmesnil - 50
+Neuilly - 27
+Neuilly-la-Forêt - 14
+Neuilly-le-Bisson - 61
+Neuilly-sur-Eure - 61
+Neuville-au-Plain - 50
+Neuville-en-Beaumont - 50
+Neuville-Ferrières - 76
+Neuville-près-Sées - 61
+Neuville-sur-Authou - 27
+Neuville-sur-Touques - 61
+Neuvy-au-Houlme - 61
+Néville - 76
+Néville-sur-Mer - 50
+Nicorps - 50
+Noards - 27
+Nocé - 61
+Nogent-le-Sec - 27
+Nointot - 76
+Nojeon-en-Vexin - 27
+Nolléval - 76
+Nonancourt - 27
+Nonant - 14
+Nonant-le-Pin - 61
+Normandel - 61
+Normanville - 27
+Normanville - 76
+Norolles - 14
+Noron-l'Abbaye - 14
+Noron-la-Poterie - 14
+Norrey-en-Auge - 14
+Norville - 76
+Notre-Dame-d'Aliermont - 76
+Notre-Dame-d'Elle - 50
+Notre-Dame-d'Epine - 27
+Notre-Dame-d'Estrées - 14
+Notre-Dame-de-Bliquetuit - 76
+Notre-Dame-de-Bondeville - 76
+Notre-Dame-de-Cenilly - 50
+Notre-Dame-de-Courson - 14
+Notre-Dame-de-Gravenchon - 76
+Notre-Dame-de-l'Isle - 27
+Notre-Dame-de-Livaye - 14
+Notre-Dame-de-Livoye - 50
+Notre-Dame-du-Bec - 76
+Notre-Dame-du-Hamel - 27
+Notre-Dame-du-Parc - 76
+Notre-Dame-du-Rocher - 61
+Notre-Dame-du-Touchet - 50
+Nouainville - 50
+Noyers - 27
+Noyers-Bocage - 14
+Nullemont - 76
+Occagnes - 61
+Ocqueville - 76
+Octeville-l'Avenel - 50
+Octeville-sur-Mer - 76
+Offranville - 76
+Oherville - 76
+Oissel - 76
+Olendon - 14
+Omméel - 61
+Ommoy - 61
+Omonville - 76
+Omonville-la-Petite - 50
+Omonville-la-Rogue - 50
+Ondefontaine - 14
+Orbec - 14
+Orgères - 61
+Orglandes - 50
+Origny-le-Butin - 61
+Origny-le-Roux - 61
+Orival - 76
+Ormes - 27
+Orval - 50
+Orvaux - 27
+Orville - 61
+Osmanville - 14
+Osmoy-Saint-Valery - 76
+Ouainville - 76
+Oudalle - 76
+Ouézy - 14
+Ouffières - 14
+Ouilly-du-Houley - 14
+Ouilly-le-Tesson - 14
+Ouilly-le-Vicomte - 14
+Ouistreham - 14
+Ourville-en-Caux - 76
+Ouville - 50
+Ouville-l'Abbaye - 76
+Ouville-la-Bien-Tournée - 14
+Ouville-la-Rivière - 76
+Ozeville - 50
+Pacé - 61
+Pacy-sur-Eure - 27
+Paluel - 76
+Panilleuse - 27
+Parc-d'Anxtot - 76
+Parfondeval - 61
+Parfouru-sur-Odon - 14
+Parigny - 50
+Parville - 27
+Passais - 61
+Pavilly - 76
+Penly - 76
+Pennedepie - 14
+Percy - 50
+Percy-en-Auge - 14
+Périers - 50
+Périers-en-Auge - 14
+Périers-sur-le-Dan - 14
+Périgny - 14
+Perrières - 14
+Perriers-en-Beauficel - 50
+Perriers-la-Campagne - 27
+Perriers-sur-Andelle - 27
+Perrou - 61
+Perruel - 27
+Pertheville-Ners - 14
+Pervenchères - 61
+Petit-Couronne - 76
+Petiville - 76
+Petiville - 14
+Picauville - 50
+Piencourt - 27
+Pierrecourt - 76
+Pierrefiques - 76
+Pierrefitte-en-Auge - 14
+Pierrefitte-en-Cinglais - 14
+Pierrepont - 14
+Pierres - 14
+Pierreval - 76
+Pierreville - 50
+Pinterville - 27
+Pirou - 50
+Piseux - 27
+Pissy-Pôville - 76
+Pîtres - 27
+Placy - 14
+Placy-Montaigu - 50
+Plainville - 27
+Planches - 61
+Planquery - 14
+Plasnes - 27
+Pleine-Sève - 76
+Plomb - 50
+Plumetot - 14
+Poilley - 50
+Pointel - 61
+Pommereux - 76
+Pommeréval - 76
+Pont-Audemer - 27
+Pont-Authou - 27
+Pont-Bellanger - 14
+Pont-d'Ouilly - 14
+Pont-de-l'Arche - 27
+Pont-Farcy - 14
+Pont-Hébert - 50
+Pont-l'Évêque - 14
+Pont-Saint-Pierre - 27
+Pontaubault - 50
+Pontchardon - 61
+Pontécoulant - 14
+Pontorson - 50
+Ponts - 50
+Ponts-et-Marais - 76
+Port-en-Bessin-Huppain - 14
+Port-Mort - 27
+Portbail - 50
+Porte-Joie - 27
+Portes - 27
+Poses - 27
+Potigny - 14
+Poussy-la-Campagne - 14
+Pouvrai - 61
+Préaux - 76
+Préaux-Bocage - 14
+Préaux-du-Perche - 61
+Préaux-Saint-Sébastien - 14
+Précey - 50
+Précorbin - 50
+Prépotin - 61
+Presles - 14
+Pressagny-l'Orgueilleux - 27
+Prétot-Sainte-Suzanne - 50
+Prétot-Vicquemare - 76
+Prêtreville - 14
+Preuseville - 76
+Prey - 27
+Proussy - 14
+Puchay - 27
+Puisenval - 76
+Pullay - 27
+Putanges-Pont-Écrepin - 61
+Putot-en-Auge - 14
+Putot-en-Bessin - 14
+Quatremare - 27
+Querqueville - 50
+Quessigny - 27
+Quettehou - 50
+Quettetot - 50
+Quetteville - 14
+Quettreville-sur-Sienne - 50
+Quevillon - 76
+Quévreville-la-Poterie - 76
+Quiberville - 76
+Quibou - 50
+Quièvrecourt - 76
+Quillebeuf-sur-Seine - 27
+Quincampoix - 76
+Quinéville - 50
+Quittebeuf - 27
+Rabodanges - 61
+Radepont - 27
+Radon - 61
+Raffetot - 76
+Rai - 61
+Raids - 50
+Rainfreville - 76
+Rampan - 50
+Ranchy - 14
+Randonnai - 61
+Rânes - 61
+Ranville - 14
+Rapilly - 14
+Rauville-la-Bigot - 50
+Rauville-la-Place - 50
+Ravenoville - 50
+Réalcamp - 76
+Rebets - 76
+Reffuveille - 50
+Regnéville-sur-Mer - 50
+Reigneville-Bocage - 50
+Rémalard - 61
+Remilly-sur-Lozon - 50
+Renneville - 27
+Repentigny - 14
+Résenlieu - 61
+Réthoville - 50
+Rétonval - 76
+Reuilly - 27
+Reuville - 76
+Reux - 14
+Réveillon - 61
+Reviers - 14
+Réville - 50
+Ri - 61
+Ricarville - 76
+Ricarville-du-Val - 76
+Richemont - 76
+Richeville - 27
+Rieux - 76
+Riville - 76
+Robertot - 76
+Rocheville - 50
+Rocquancourt - 14
+Rocquefort - 76
+Rocquemont - 76
+Rocques - 14
+Rogerville - 76
+Roiville - 61
+Rolleville - 76
+Romagny - 50
+Roman - 27
+Romilly-la-Puthenaye - 27
+Romilly-sur-Andelle - 27
+Rônai - 61
+Roncey - 50
+Roncherolles-en-Bray - 76
+Roncherolles-sur-le-Vivier - 76
+Ronchois - 76
+Ronfeugerai - 61
+Rosay - 76
+Rosay-sur-Lieure - 27
+Rosel - 14
+Rots - 14
+Roucamps - 14
+Rouellé - 61
+Rouen - 76
+Rouffigny - 50
+Rouge-Perriers - 27
+Rougemontiers - 27
+Roullours - 14
+Roumare - 76
+Rouperroux - 61
+Routes - 76
+Routot - 27
+Rouville - 76
+Rouvray - 27
+Rouvray-Catillon - 76
+Rouvres - 14
+Rouxeville - 50
+Rouxmesnil-Bouteilles - 76
+Royville - 76
+Rubercy - 14
+Rucqueville - 14
+Rugles - 27
+Rully - 14
+Rumesnil - 14
+Russy - 14
+Ry - 76
+Ryes - 14
+Saâne-Saint-Just - 76
+Sacey - 50
+Sacquenville - 27
+Sahurs - 76
+Sai - 61
+Sainneville - 76
+Saint-Agnan-de-Cernières - 27
+Saint-Agnan-le-Malherbe - 14
+Saint-Agnan-sur-Erre - 61
+Saint-Agnan-sur-Sarthe - 61
+Saint-Aignan-de-Cramesnil - 14
+Saint-Aignan-sur-Ry - 76
+Saint-Amand - 50
+Saint-Amand-des-Hautes-Terres - 27
+Saint-André-d'Hébertot - 14
+Saint-André-de-Bohon - 50
+Saint-André-de-Briouze - 61
+Saint-André-de-l'Épine - 50
+Saint-André-de-l'Eure - 27
+Saint-André-de-Messei - 61
+Saint-André-sur-Cailly - 76
+Saint-André-sur-Orne - 14
+Saint-Antoine-la-Forêt - 76
+Saint-Antonin-de-Sommaire - 27
+Saint-Aquilin-de-Corbion - 61
+Saint-Aquilin-de-Pacy - 27
+Saint-Arnoult - 14
+Saint-Arnoult - 76
+Saint-Aubert-sur-Orne - 61
+Saint-Aubin-Celloville - 76
+Saint-Aubin-d'Appenai - 61
+Saint-Aubin-d'Arquenay - 14
+Saint-Aubin-d'Ecrosville - 27
+Saint-Aubin-de-Bonneval - 61
+Saint-Aubin-de-Courteraie - 61
+Saint-Aubin-de-Crétot - 76
+Saint-Aubin-de-Scellon - 27
+Saint-Aubin-de-Terregatte - 50
+Saint-Aubin-des-Bois - 14
+Saint-Aubin-des-Grois - 61
+Saint-Aubin-des-Hayes - 27
+Saint-Aubin-des-Préaux - 50
+Saint-Aubin-du-Perron - 50
+Saint-Aubin-du-Thenney - 27
+Saint-Aubin-Epinay - 76
+Saint-Aubin-le-Cauf - 76
+Saint-Aubin-le-Guichard - 27
+Saint-Aubin-le-Vertueux - 27
+Saint-Aubin-lès-Elbeuf - 76
+Saint-Aubin-Routot - 76
+Saint-Aubin-sur-Gaillon - 27
+Saint-Aubin-sur-Mer - 76
+Saint-Aubin-sur-Mer - 14
+Saint-Aubin-sur-Quillebeuf - 27
+Saint-Aubin-sur-Scie - 76
+Saint-Barthélemy - 50
+Saint-Benoît-d'Hébertot - 14
+Saint-Benoît-des-Ombres - 27
+Saint-Bômer-les-Forges - 61
+Saint-Brice - 50
+Saint-Brice - 61
+Saint-Brice-de-Landelles - 50
+Saint-Brice-sous-Rânes - 61
+Saint-Céneri-le-Gérei - 61
+Saint-Charles-de-Percy - 14
+Saint-Christophe-de-Chaulieu - 61
+Saint-Christophe-du-Foc - 50
+Saint-Christophe-le-Jajolet - 61
+Saint-Christophe-sur-Avre - 27
+Saint-Christophe-sur-Condé - 27
+Saint-Clair-d'Arcey - 27
+Saint-Clair-de-Halouze - 61
+Saint-Clair-sur-l'Elle - 50
+Saint-Clair-sur-les-Monts - 76
+Saint-Clément-Rancoudray - 50
+Saint-Côme-de-Fresné - 14
+Saint-Côme-du-Mont - 50
+Saint-Contest - 14
+Saint-Cornier-des-Landes - 61
+Saint-Crespin - 76
+Saint-Cyr - 50
+Saint-Cyr-de-Salerne - 27
+Saint-Cyr-du-Bailleul - 50
+Saint-Cyr-du-Ronceray - 14
+Saint-Cyr-la-Campagne - 27
+Saint-Cyr-la-Rosière - 61
+Saint-Denis-d'Aclon - 76
+Saint-Denis-d'Augerons - 27
+Saint-Denis-de-Mailloc - 14
+Saint-Denis-de-Méré - 14
+Saint-Denis-de-Villenette - 61
+Saint-Denis-des-Monts - 27
+Saint-Denis-du-Béhélan - 27
+Saint-Denis-le-Ferment - 27
+Saint-Denis-le-Gast - 50
+Saint-Denis-le-Thiboult - 76
+Saint-Denis-le-Vêtu - 50
+Saint-Denis-Maisoncelles - 14
+Saint-Denis-sur-Huisne - 61
+Saint-Denis-sur-Sarthon - 61
+Saint-Denis-sur-Scie - 76
+Saint-Désir - 14
+Saint-Didier-des-Bois - 27
+Saint-Didier-sous-Écouves - 61
+Saint-Ébremond-de-Bonfossé - 50
+Saint-Elier - 27
+Saint-Ellier-les-Bois - 61
+Saint-Eloi-de-Fourques - 27
+Saint-Etienne-du-Rouvray - 76
+Saint-Etienne-du-Vauvray - 27
+Saint-Etienne-l'Allier - 27
+Saint-Étienne-la-Thillaye - 14
+Saint-Etienne-sous-Bailleul - 27
+Saint-Eustache-la-Forêt - 76
+Saint-Evroult-de-Montfort - 61
+Saint-Evroult-Notre-Dame-du-Bois - 61
+Saint-Floxel - 50
+Saint-Fraimbault - 61
+Saint-Fromond - 50
+Saint-Fulgent-des-Ormes - 61
+Saint-Gabriel-Brécy - 14
+Saint-Gatien-des-Bois - 14
+Saint-Georges-d'Annebecq - 61
+Saint-Georges-d'Aunay - 14
+Saint-Georges-d'Elle - 50
+Saint-Georges-de-Bohon - 50
+Saint-Georges-de-la-Rivière - 50
+Saint-Georges-de-Livoye - 50
+Saint-Georges-de-Rouelley - 50
+Saint-Georges-des-Groseillers - 61
+Saint-Georges-du-Mesnil - 27
+Saint-Georges-du-Vièvre - 27
+Saint-Georges-en-Auge - 14
+Saint-Georges-Montcocq - 50
+Saint-Georges-Motel - 27
+Saint-Georges-sur-Fontaine - 76
+Saint-Germain-d'Aunay - 61
+Saint-Germain-d'Ectot - 14
+Saint-Germain-d'Elle - 50
+Saint-Germain-d'Etables - 76
+Saint-Germain-de-Clairefeuille - 61
+Saint-Germain-de-Fresney - 27
+Saint-Germain-de-la-Coudre - 61
+Saint-Germain-de-Livet - 14
+Saint-Germain-de-Martigny - 61
+Saint-Germain-de-Montgommery - 14
+Saint-Germain-de-Pasquier - 27
+Saint-Germain-de-Tallevende-la-Lande-Vaumont - 14
+Saint-Germain-de-Tournebut - 50
+Saint-Germain-de-Varreville - 50
+Saint-Germain-des-Angles - 27
+Saint-Germain-des-Essourts - 76
+Saint-Germain-des-Grois - 61
+Saint-Germain-des-Vaux - 50
+Saint-Germain-du-Corbéis - 61
+Saint-Germain-du-Crioult - 14
+Saint-Germain-du-Pert - 14
+Saint-Germain-la-Blanche-Herbe - 14
+Saint-Germain-la-Campagne - 27
+Saint-Germain-Langot - 14
+Saint-Germain-le-Gaillard - 50
+Saint-Germain-le-Vasson - 14
+Saint-Germain-le-Vieux - 61
+Saint-Germain-sous-Cailly - 76
+Saint-Germain-sur-Avre - 27
+Saint-Germain-sur-Ay - 50
+Saint-Germain-sur-Eaulne - 76
+Saint-Germain-sur-Sèves - 50
+Saint-Germain-Village - 27
+Saint-Gervais-des-Sablons - 61
+Saint-Gervais-du-Perron - 61
+Saint-Gilles - 50
+Saint-Gilles-de-Crétot - 76
+Saint-Gilles-de-la-Neuville - 76
+Saint-Gilles-des-Marais - 61
+Saint-Grégoire-du-Vièvre - 27
+Saint-Hellier - 76
+Saint-Hilaire-de-Briouze - 61
+Saint-Hilaire-du-Harcouët - 50
+Saint-Hilaire-la-Gérard - 61
+Saint-Hilaire-le-Châtel - 61
+Saint-Hilaire-Petitville - 50
+Saint-Hilaire-sur-Erre - 61
+Saint-Hilaire-sur-Risle - 61
+Saint-Honoré - 76
+Saint-Hymer - 14
+Saint-Jacques-d'Aliermont - 76
+Saint-Jacques-de-Néhou - 50
+Saint-Jacques-sur-Darnétal - 76
+Saint-James - 50
+Saint-Jean-de-Daye - 50
+Saint-Jean-de-Folleville - 76
+Saint-Jean-de-la-Forêt - 61
+Saint-Jean-de-la-Haize - 50
+Saint-Jean-de-la-Léqueraye - 27
+Saint-Jean-de-la-Neuville - 76
+Saint-Jean-de-la-Rivière - 50
+Saint-Jean-de-Livet - 14
+Saint-Jean-de-Savigny - 50
+Saint-Jean-des-Baisants - 50
+Saint-Jean-des-Bois - 61
+Saint-Jean-des-Champs - 50
+Saint-Jean-des-Essartiers - 14
+Saint-Jean-du-Cardonnay - 76
+Saint-Jean-du-Corail - 50
+Saint-Jean-du-Corail-des-Bois - 50
+Saint-Jean-du-Thenney - 27
+Saint-Jean-le-Blanc - 14
+Saint-Jean-le-Thomas - 50
+Saint-Jores - 50
+Saint-Joseph - 50
+Saint-Jouin - 14
+Saint-Jouin-Bruneval - 76
+Saint-Jouin-de-Blavou - 61
+Saint-Julien-de-la-Liègue - 27
+Saint-Julien-de-Mailloc - 14
+Saint-Julien-le-Faucon - 14
+Saint-Julien-sur-Calonne - 14
+Saint-Julien-sur-Sarthe - 61
+Saint-Just - 27
+Saint-Lambert - 14
+Saint-Lambert-sur-Dive - 61
+Saint-Langis-lès-Mortagne - 61
+Saint-Laurent-de-Brèvedent - 76
+Saint-Laurent-de-Condel - 14
+Saint-Laurent-de-Cuves - 50
+Saint-Laurent-de-Terregatte - 50
+Saint-Laurent-des-Bois - 27
+Saint-Laurent-du-Mont - 14
+Saint-Laurent-du-Tencement - 27
+Saint-Laurent-en-Caux - 76
+Saint-Laurent-sur-Mer - 14
+Saint-Léger-aux-Bois - 76
+Saint-Léger-de-Rôtes - 27
+Saint-Léger-du-Bourg-Denis - 76
+Saint-Léger-du-Gennetey - 27
+Saint-Léger-Dubosq - 14
+Saint-Léger-sur-Sarthe - 61
+Saint-Léonard - 76
+Saint-Léonard-des-Parcs - 61
+Saint-Lô - 50
+Saint-Lô-d'Ourville - 50
+Saint-Louet-sur-Seulles - 14
+Saint-Louet-sur-Vire - 50
+Saint-Loup - 50
+Saint-Loup-de-Fribois - 14
+Saint-Loup-Hors - 14
+Saint-Loyer-des-Champs - 61
+Saint-Luc - 27
+Saint-Maclou - 27
+Saint-Maclou-de-Folleville - 76
+Saint-Maclou-la-Brière - 76
+Saint-Malo-de-la-Lande - 50
+Saint-Manvieu-Bocage - 14
+Saint-Manvieu-Norrey - 14
+Saint-Marcel - 27
+Saint-Marcouf - 14
+Saint-Marcouf - 50
+Saint-Mard-de-Réno - 61
+Saint-Mards - 76
+Saint-Mards-de-Blacarville - 27
+Saint-Mards-de-Fresne - 27
+Saint-Mars-d'Égrenne - 61
+Saint-Martin-au-Bosc - 76
+Saint-Martin-aux-Arbres - 76
+Saint-Martin-aux-Buneaux - 76
+Saint-Martin-aux-Chartrains - 14
+Saint-Martin-d'Aubigny - 50
+Saint-Martin-d'Audouville - 50
+Saint-Martin-d'Écublei - 61
+Saint-Martin-de-Bienfaite-la-Cressonnière - 14
+Saint-Martin-de-Blagny - 14
+Saint-Martin-de-Bonfossé - 50
+Saint-Martin-de-Boscherville - 76
+Saint-Martin-de-Cenilly - 50
+Saint-Martin-de-Fontenay - 14
+Saint-Martin-de-la-Lieue - 14
+Saint-Martin-de-Landelles - 50
+Saint-Martin-de-Mailloc - 14
+Saint-Martin-de-Mieux - 14
+Saint-Martin-de-Sallen - 14
+Saint-Martin-de-Varreville - 50
+Saint-Martin-des-Besaces - 14
+Saint-Martin-des-Champs - 50
+Saint-Martin-des-Entrées - 14
+Saint-Martin-des-Landes - 61
+Saint-Martin-des-Pézerits - 61
+Saint-Martin-Don - 14
+Saint-Martin-du-Bec - 76
+Saint-Martin-du-Manoir - 76
+Saint-Martin-du-Mesnil-Oury - 14
+Saint-Martin-du-Tilleul - 27
+Saint-Martin-du-Vieux-Bellême - 61
+Saint-Martin-du-Vivier - 76
+Saint-Martin-en-Campagne - 76
+Saint-Martin-l'Aiguillon - 61
+Saint-Martin-l'Hortier - 76
+Saint-Martin-la-Campagne - 27
+Saint-Martin-le-Bouillant - 50
+Saint-Martin-le-Gaillard - 76
+Saint-Martin-le-Gréard - 50
+Saint-Martin-le-Hébert - 50
+Saint-Martin-Osmonville - 76
+Saint-Martin-Saint-Firmin - 27
+Saint-Maur-des-Bois - 50
+Saint-Maurice-d'Etelan - 76
+Saint-Maurice-du-Désert - 61
+Saint-Maurice-en-Cotentin - 50
+Saint-Maurice-lès-Charencey - 61
+Saint-Maurice-sur-Huisne - 61
+Saint-Meslin-du-Bosc - 27
+Saint-Michel-d'Halescourt - 76
+Saint-Michel-de-la-Pierre - 50
+Saint-Michel-de-Livet - 14
+Saint-Michel-de-Montjoie - 50
+Saint-Michel-des-Andaines - 61
+Saint-Michel-Tuboeuf - 61
+Saint-Nicolas-d'Aliermont - 76
+Saint-Nicolas-d'Attez - 27
+Saint-Nicolas-de-Bliquetuit - 76
+Saint-Nicolas-de-la-Haie - 76
+Saint-Nicolas-de-la-Taille - 76
+Saint-Nicolas-de-Pierrepont - 50
+Saint-Nicolas-de-Sommaire - 61
+Saint-Nicolas-des-Bois - 50
+Saint-Nicolas-des-Bois - 61
+Saint-Nicolas-des-Laitiers - 61
+Saint-Nicolas-du-Bosc - 27
+Saint-Omer - 14
+Saint-Ouen-d'Attez - 27
+Saint-Ouen-de-la-Cour - 61
+Saint-Ouen-de-Pontcheuil - 27
+Saint-Ouen-de-Sécherouvre - 61
+Saint-Ouen-de-Thouberville - 27
+Saint-Ouen-des-Besaces - 14
+Saint-Ouen-des-Champs - 27
+Saint-Ouen-du-Breuil - 76
+Saint-Ouen-du-Mesnil-Oger - 14
+Saint-Ouen-du-Tilleul - 27
+Saint-Ouen-le-Brisoult - 61
+Saint-Ouen-le-Houx - 14
+Saint-Ouen-le-Mauger - 76
+Saint-Ouen-le-Pin - 14
+Saint-Ouen-sous-Bailly - 76
+Saint-Ouen-sur-Iton - 61
+Saint-Ouen-sur-Maire - 61
+Saint-Ovin - 50
+Saint-Paër - 76
+Saint-Pair - 14
+Saint-Pair-sur-Mer - 50
+Saint-Patrice-de-Claids - 50
+Saint-Patrice-du-Désert - 61
+Saint-Paul - 61
+Saint-Paul-de-Fourques - 27
+Saint-Paul-du-Vernay - 14
+Saint-Pellerin - 50
+Saint-Philbert-des-Champs - 14
+Saint-Philbert-sur-Boissey - 27
+Saint-Philbert-sur-Orne - 61
+Saint-Philbert-sur-Risle - 27
+Saint-Pierre-Azif - 14
+Saint-Pierre-Bénouville - 76
+Saint-Pierre-Canivet - 14
+Saint-Pierre-d'Arthéglise - 50
+Saint-Pierre-d'Autils - 27
+Saint-Pierre-d'Entremont - 61
+Saint-Pierre-de-Bailleul - 27
+Saint-Pierre-de-Cernières - 27
+Saint-Pierre-de-Cormeilles - 27
+Saint-Pierre-de-Coutances - 50
+Saint-Pierre-de-Mailloc - 14
+Saint-Pierre-de-Manneville - 76
+Saint-Pierre-de-Salerne - 27
+Saint-Pierre-de-Semilly - 50
+Saint-Pierre-de-Varengeville - 76
+Saint-Pierre-des-Fleurs - 27
+Saint-Pierre-des-Ifs - 27
+Saint-Pierre-des-Ifs - 14
+Saint-Pierre-des-Jonquières - 76
+Saint-Pierre-des-Loges - 61
+Saint-Pierre-du-Bosguérard - 27
+Saint-Pierre-du-Bû - 14
+Saint-Pierre-du-Fresne - 14
+Saint-Pierre-du-Jonquet - 14
+Saint-Pierre-du-Mesnil - 27
+Saint-Pierre-du-Mont - 14
+Saint-Pierre-du-Regard - 61
+Saint-Pierre-du-Val - 27
+Saint-Pierre-du-Vauvray - 27
+Saint-Pierre-Église - 50
+Saint-Pierre-en-Port - 76
+Saint-Pierre-en-Val - 76
+Saint-Pierre-la-Bruyère - 61
+Saint-Pierre-la-Garenne - 27
+Saint-Pierre-la-Rivière - 61
+Saint-Pierre-la-Vieille - 14
+Saint-Pierre-Langers - 50
+Saint-Pierre-Lavis - 76
+Saint-Pierre-le-Vieux - 76
+Saint-Pierre-le-Viger - 76
+Saint-Pierre-lès-Elbeuf - 76
+Saint-Pierre-sur-Dives - 14
+Saint-Pierre-Tarentaine - 14
+Saint-Planchers - 50
+Saint-Pois - 50
+Saint-Quentin-au-Bosc - 76
+Saint-Quentin-de-Blavou - 61
+Saint-Quentin-des-Isles - 27
+Saint-Quentin-les-Chardonnets - 61
+Saint-Quentin-sur-le-Homme - 50
+Saint-Rémy - 14
+Saint-Rémy-Boscrocourt - 76
+Saint-Rémy-des-Landes - 50
+Saint-Riquier-en-Rivière - 76
+Saint-Riquier-ès-Plains - 76
+Saint-Roch-sur-Égrenne - 61
+Saint-Romain-de-Colbosc - 76
+Saint-Romphaire - 50
+Saint-Saëns - 76
+Saint-Saire - 76
+Saint-Samson - 14
+Saint-Samson-de-Bonfossé - 50
+Saint-Samson-de-la-Roque - 27
+Saint-Sauveur-d'Emalleville - 76
+Saint-Sauveur-de-Carrouges - 61
+Saint-Sauveur-de-Pierrepont - 50
+Saint-Sauveur-la-Pommeraye - 50
+Saint-Sauveur-le-Vicomte - 50
+Saint-Sauveur-Lendelin - 50
+Saint-Sébastien-de-Morsent - 27
+Saint-Sébastien-de-Raids - 50
+Saint-Senier-de-Beuvron - 50
+Saint-Senier-sous-Avranches - 50
+Saint-Sever-Calvados - 14
+Saint-Siméon - 61
+Saint-Siméon - 27
+Saint-Sulpice-de-Grimbouville - 27
+Saint-Sulpice-sur-Risle - 61
+Saint-Sylvain - 76
+Saint-Sylvain - 14
+Saint-Sylvestre-de-Cormeilles - 27
+Saint-Symphorien - 27
+Saint-Symphorien-des-Bruyères - 61
+Saint-Symphorien-des-Monts - 50
+Saint-Symphorien-le-Valois - 50
+Saint-Thurien - 27
+Saint-Vaast-d'Equiqueville - 76
+Saint-Vaast-Dieppedalle - 76
+Saint-Vaast-du-Val - 76
+Saint-Vaast-en-Auge - 14
+Saint-Vaast-la-Hougue - 50
+Saint-Vaast-sur-Seulles - 14
+Saint-Valery-en-Caux - 76
+Saint-Victor-d'Epine - 27
+Saint-Victor-de-Chrétienville - 27
+Saint-Victor-de-Réno - 61
+Saint-Victor-l'Abbaye - 76
+Saint-Victor-sur-Avre - 27
+Saint-Vigor - 27
+Saint-Vigor-d'Ymonville - 76
+Saint-Vigor-des-Mézerets - 14
+Saint-Vigor-des-Monts - 50
+Saint-Vigor-le-Grand - 14
+Saint-Vincent-Cramesnil - 76
+Saint-Vincent-des-Bois - 27
+Saint-Vincent-du-Boulay - 27
+Saint-Wandrille-Rançon - 76
+Sainte-Adresse - 76
+Sainte-Agathe-d'Aliermont - 76
+Sainte-Austreberthe - 76
+Sainte-Barbe-sur-Gaillon - 27
+Sainte-Beuve-en-Rivière - 76
+Sainte-Cécile - 50
+Sainte-Céronne-lès-Mortagne - 61
+Sainte-Colombe - 76
+Sainte-Colombe - 50
+Sainte-Colombe-la-Commanderie - 27
+Sainte-Colombe-près-Vernon - 27
+Sainte-Croix-Grand-Tonne - 14
+Sainte-Croix-Hague - 50
+Sainte-Croix-sur-Aizier - 27
+Sainte-Croix-sur-Buchy - 76
+Sainte-Croix-sur-Mer - 14
+Sainte-Croix-sur-Orne - 61
+Sainte-Foy - 76
+Sainte-Foy-de-Montgommery - 14
+Sainte-Gauburge-Sainte-Colombe - 61
+Sainte-Geneviève - 50
+Sainte-Geneviève - 76
+Sainte-Geneviève-lès-Gasny - 27
+Sainte-Hélène-Bondeville - 76
+Sainte-Honorine-de-Ducy - 14
+Sainte-Honorine-des-Pertes - 14
+Sainte-Honorine-du-Fay - 14
+Sainte-Honorine-la-Chardonne - 61
+Sainte-Honorine-la-Guillaume - 61
+Sainte-Marguerite-d'Elle - 14
+Sainte-Marguerite-de-Carrouges - 61
+Sainte-Marguerite-de-l'Autel - 27
+Sainte-Marguerite-de-Viette - 14
+Sainte-Marguerite-des-Loges - 14
+Sainte-Marguerite-en-Ouche - 27
+Sainte-Marguerite-sur-Duclair - 76
+Sainte-Marguerite-sur-Fauville - 76
+Sainte-Marguerite-sur-Mer - 76
+Sainte-Marie-au-Bosc - 76
+Sainte-Marie-de-Vatimesnil - 27
+Sainte-Marie-des-Champs - 76
+Sainte-Marie-du-Bois - 50
+Sainte-Marie-du-Mont - 50
+Sainte-Marie-la-Robert - 61
+Sainte-Marie-Laumont - 14
+Sainte-Marie-Outre-l'Eau - 14
+Sainte-Marthe - 27
+Sainte-Mère-Église - 50
+Sainte-Opportune - 61
+Sainte-Opportune-du-Bosc - 27
+Sainte-Opportune-la-Mare - 27
+Sainte-Pience - 50
+Sainte-Scolasse-sur-Sarthe - 61
+Sainte-Suzanne-sur-Vire - 50
+Sainteny - 50
+Saires-la-Verrerie - 61
+Sallen - 14
+Sallenelles - 14
+Sancourt - 27
+Sandouville - 76
+Sannerville - 14
+Saon - 14
+Saonnet - 14
+Sarceaux - 61
+Sartilly - 50
+Sassetot-le-Malgardé - 76
+Sassetot-le-Mauconduit - 76
+Sasseville - 76
+Sassey - 27
+Sassy - 14
+Sauchay - 76
+Saumont-la-Poterie - 76
+Sauqueville - 76
+Saussay - 76
+Saussay-la-Campagne - 27
+Saussemesnil - 50
+Sausseuzemare-en-Caux - 76
+Saussey - 50
+Savigny - 50
+Savigny-le-Vieux - 50
+Sébécourt - 27
+Sébeville - 50
+Secqueville-en-Bessin - 14
+Sées - 61
+Ségrie-Fontaine - 61
+Selles - 27
+Semallé - 61
+Senneville-sur-Fécamp - 76
+Sénoville - 50
+Sentilly - 61
+Sept-Forges - 61
+Sept-Frères - 14
+Sept-Meules - 76
+Sept-Vents - 14
+Serans - 61
+Serez - 27
+Sérigny - 61
+Serqueux - 76
+Serquigny - 27
+Servaville-Salmonville - 76
+Servigny - 50
+Servon - 50
+Sévigny - 61
+Sévis - 76
+Sevrai - 61
+Sideville - 50
+Sierville - 76
+Sigy-en-Bray - 76
+Silly-en-Gouffern - 61
+Siouville-Hague - 50
+Smermesnil - 76
+Soignolles - 14
+Soliers - 14
+Soligny-la-Trappe - 61
+Sommervieu - 14
+Sommery - 76
+Sommesnil - 76
+Sorquainville - 76
+Sortosville - 50
+Sortosville-en-Beaumont - 50
+Sottevast - 50
+Sotteville - 50
+Sotteville-lès-Rouen - 76
+Sotteville-sous-le-Val - 76
+Sotteville-sur-Mer - 76
+Soulangy - 14
+Soulles - 50
+Soumont-Saint-Quentin - 14
+Sourdeval - 50
+Sourdeval-les-Bois - 50
+Subles - 14
+Subligny - 50
+Sully - 14
+Suré - 61
+Surrain - 14
+Surtainville - 50
+Surtauville - 27
+Survie - 61
+Surville - 14
+Surville - 27
+Surville - 50
+Suzay - 27
+Sylvains-les-Moulins - 27
+Taillebois - 61
+Taillepied - 50
+Tamerville - 50
+Tancarville - 76
+Tanis - 50
+Tanques - 61
+Tanville - 61
+Tellières-le-Plessis - 61
+Tessé-Froulay - 61
+Tessel - 14
+Tessy-sur-Vire - 50
+Teurthéville-Bocage - 50
+Teurthéville-Hague - 50
+Thaon - 14
+Theillement - 27
+Thérouldeville - 76
+Theuville-aux-Maillots - 76
+Théville - 50
+Thevray - 27
+Thiberville - 27
+Thibouville - 27
+Thiergeville - 76
+Thierville - 27
+Thiétreville - 76
+Thiéville - 14
+Thil-Manneville - 76
+Thiouville - 76
+Thomer-la-Sôgne - 27
+Thuit-Hébert - 27
+Thury-Harcourt - 14
+Ticheville - 61
+Tierceville - 14
+Tilleul-Dame-Agnès - 27
+Tillières-sur-Avre - 27
+Tilly - 27
+Tilly-la-Campagne - 14
+Tilly-sur-Seulles - 14
+Tinchebray - 61
+Tirepied - 50
+Tocqueville - 50
+Tocqueville - 27
+Tocqueville-en-Caux - 76
+Tocqueville-les-Murs - 76
+Tocqueville-sur-Eu - 76
+Tollevast - 50
+Tonneville - 50
+Torchamp - 61
+Torcy-le-Grand - 76
+Torcy-le-Petit - 76
+Tordouet - 14
+Torigni-sur-Vire - 50
+Torteval-Quesnay - 14
+Tortisambert - 14
+Tosny - 27
+Tostes - 27
+Tôtes - 76
+Touffréville - 14
+Touffreville - 27
+Touffreville-la-Cable - 76
+Touffreville-la-Corbeline - 76
+Touffreville-sur-Eu - 76
+Touques - 14
+Touquettes - 61
+Tour-en-Bessin - 14
+Tourgéville - 14
+Tourlaville - 50
+Tournai-sur-Dive - 61
+Tournay-sur-Odon - 14
+Tournebu - 14
+Tournedos-Bois-Hubert - 27
+Tournedos-sur-Seine - 27
+Tourneville - 27
+Tournières - 14
+Tourny - 27
+Tourouvre - 61
+Tourville-en-Auge - 14
+Tourville-la-Campagne - 27
+Tourville-la-Chapelle - 76
+Tourville-la-Rivière - 76
+Tourville-les-Ifs - 76
+Tourville-sur-Arques - 76
+Tourville-sur-Odon - 14
+Tourville-sur-Pont-Audemer - 27
+Tourville-sur-Sienne - 50
+Toussaint - 76
+Toutainville - 27
+Touville - 27
+Tracy-Bocage - 14
+Tracy-sur-Mer - 14
+Tréauville - 50
+Trelly - 50
+Trémauville - 76
+Trémont - 61
+Tréprel - 14
+Trévières - 14
+Tribehou - 50
+Triquerville - 76
+Triqueville - 27
+Troarn - 14
+Trois-Monts - 14
+Troisgots - 50
+Trouville - 76
+Trouville-la-Haule - 27
+Trouville-sur-Mer - 14
+Trun - 61
+Trungy - 14
+Truttemer-le-Grand - 14
+Truttemer-le-Petit - 14
+Turqueville - 50
+Turretot - 76
+Urou-et-Crennes - 61
+Urville - 14
+Urville - 50
+Urville-Nacqueville - 50
+Ussy - 14
+Vacognes-Neuilly - 14
+Vains - 50
+Val-de-la-Haye - 76
+Val-de-Reuil - 27
+Val-de-Saâne - 76
+Valailles - 27
+Valcanville - 50
+Valframbert - 61
+Valletot - 27
+Valliquerville - 76
+Valmont - 76
+Valognes - 50
+Valsemé - 14
+Vandrimare - 27
+Vannecrocq - 27
+Varaville - 14
+Varengeville-sur-Mer - 76
+Varenguebec - 50
+Varneville-Bretteville - 76
+Varouville - 50
+Vascœuil - 27
+Vassonville - 76
+Vassy - 14
+Vasteville - 50
+Vatierville - 76
+Vattetot-sous-Beaumont - 76
+Vattetot-sur-Mer - 76
+Vatteville - 27
+Vatteville-la-Rue - 76
+Vaubadon - 14
+Vaucelles - 14
+Vaudeloges - 14
+Vaudreville - 50
+Vaudrimesnil - 50
+Vaudry - 14
+Vaunoise - 61
+Vauville - 50
+Vauville - 14
+Vaux-sur-Aure - 14
+Vaux-sur-Eure - 27
+Vaux-sur-Seulles - 14
+Veauville-lès-Baons - 76
+Veauville-lès-Quelles - 76
+Venables - 27
+Vendes - 14
+Vendeuvre - 14
+Vénestanville - 76
+Vengeons - 50
+Venon - 27
+Ventes-Saint-Rémy - 76
+Ver - 50
+Ver-sur-Mer - 14
+Vergetot - 76
+Vergoncey - 50
+Verneuil-sur-Avre - 27
+Verneusses - 27
+Vernix - 50
+Vernon - 27
+Verrières - 61
+Versainville - 14
+Verson - 14
+Vesly - 50
+Vesly - 27
+Vessey - 50
+Veules-les-Roses - 76
+Veulettes-sur-Mer - 76
+Vézillon - 27
+Vibeuf - 76
+Vicques - 14
+Victot-Pontfol - 14
+Vidai - 61
+Videcosville - 50
+Vidouville - 50
+Vienne-en-Bessin - 14
+Vierville - 50
+Vierville-sur-Mer - 14
+Viessoix - 14
+Vieux - 14
+Vieux-Bourg - 14
+Vieux-Fumé - 14
+Vieux-Manoir - 76
+Vieux-Pont - 61
+Vieux-Pont-en-Auge - 14
+Vieux-Port - 27
+Vieux-Rouen-sur-Bresle - 76
+Vieux-Villez - 27
+Vignats - 14
+Villainville - 76
+Villalet - 27
+Villebadin - 61
+Villebaudon - 50
+Villechien - 50
+Villedieu-lès-Bailleul - 61
+Villedieu-les-Poêles - 50
+Villegats - 27
+Villequier - 76
+Villers-Bocage - 14
+Villers-Canivet - 14
+Villers-Ecalles - 76
+Villers-en-Ouche - 61
+Villers-en-Vexin - 27
+Villers-sous-Foucarmont - 76
+Villers-sur-le-Roule - 27
+Villers-sur-Mer - 14
+Villerville - 14
+Villettes - 27
+Villez-sous-Bailleul - 27
+Villez-sur-le-Neubourg - 27
+Villiers-en-Désœuvre - 27
+Villiers-Fossard - 50
+Villiers-le-Pré - 50
+Villiers-le-Sec - 14
+Villiers-sous-Mortagne - 61
+Villons-les-Buissons - 14
+Villy-Bocage - 14
+Villy-lez-Falaise - 14
+Villy-sur-Yères - 76
+Vimont - 14
+Vimoutiers - 61
+Vindefontaine - 50
+Vingt-Hanaps - 61
+Vinnemerville - 76
+Virandeville - 50
+Vire - 14
+Virey - 50
+Vironvay - 27
+Virville - 76
+Vitot - 27
+Vitrai-sous-Laigle - 61
+Vittefleur - 76
+Voiscreville - 27
+Vouilly - 14
+Vraiville - 27
+Vrigny - 61
+Wanchy-Capval - 76
+Yainville - 76
+Yébleron - 76
+Yerville - 76
+Ymare - 76
+Yport - 76
+Ypreville-Biville - 76
+Yquebeuf - 76
+Yquelon - 50
+Yvecrique - 76
+Yvetot - 76
+Yvetot-Bocage - 50
+Yville-sur-Seine - 76
+Yvrandes - 61

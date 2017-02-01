@@ -1,0 +1,56 @@
+// This program is free software: you can redistribute it and/or modify it
+// under the terms of the GNU General Public License as published by the Free
+// Software Foundation; either version 3 of the License, or (at your option)
+// any later version.
+//
+// This program is distributed in the hope that it will be useful, but WITHOUT
+// ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+// FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for
+// more details.
+//
+// You should have received a copy of the GNU General Public License along
+// with this program. If not, see http://www.gnu.org/licenses/. 
+
+// Ce script doit être appelé de la façon suivante :
+//
+// xslsproc --html --novalid fichecommune_indice.xsls - 2> /dev/null
+//
+// --html = l’entrée est au format HTML
+// --novalid = ignorer les entités invalides
+// 2> /dev/null = ignorer le HTML mal construit, les ID en double etc.
+
+stylesheet(
+    version="1.0",
+    xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+) {
+    output(method="text", encoding="utf-8");
+
+    // Convertit un libellé de qualité de l’air en une valeur de 0 à 5
+    template("indice-qualite") {
+        param $libelle;
+
+        choose() {
+            when("$libelle = 'Très mauvais'") { [0] }
+            when("$libelle = 'Mauvais'"     ) { [1] }
+            when("$libelle = 'Médiocre'"    ) { [2] }
+            when("$libelle = 'Moyen'"       ) { [3] }
+            when("$libelle = 'Bon'"         ) { [4] }
+            when("$libelle = 'Très bon'"    ) { [5] }
+            otherwise();
+        }
+    }
+
+    // Trouve la ligne du tableau table.tabNiv qui contient une image et
+    // récupère le texte de la première cellule de cette ligne (libellé)
+    // Appelle le template indice-qualite pour transformer le libellé en une
+    // valeur de 0 à 5
+    match("table[@class = 'tabNiv']/tr[descendant::img[@src = '/donnees/images/curseur_noir.jpg']]") {
+        call-template("indice-qualite") {
+            with-param $libelle = "normalize-space(td[1]/text())";
+        }
+    }
+
+    match("node()|text()") {
+        apply-templates("node()");
+    }
+}
